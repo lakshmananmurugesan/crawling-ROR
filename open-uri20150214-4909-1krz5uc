@@ -1,0 +1,481 @@
+
+<!DOCTYPE html>
+<html class='no-js' lang='en-US'>
+  <head>
+    <!-- Site Info -->
+<meta charset='utf-8'>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>Freshdesk – system helpdesk do wspomagania Klientów | Obsługa klienta online - Freshdesk</title>
+<meta name="description" content="Freshdesk – system pomocy helpdesk. Obsługujemy wiele kanałów, aby wspierać Twoich Klientów – email, telefon, chat, WWW, Facebook, Twitter" />
+<meta name="keywords" content="help desk, online help desk, oprogramowanie helpdesk, system helpdesk, it helpdesk, wspomaganie klienta online, CRM, freshdesk" />
+<meta name="generator" content="concrete5 - 5.6.1.2" />
+<script type="text/javascript">
+var CCM_DISPATCHER_FILENAME = '/index.php';var CCM_CID = 874;var CCM_EDIT_MODE = false;var CCM_ARRANGE_MODE = false;var CCM_IMAGE_PATH = "/concrete/images";
+var CCM_TOOLS_PATH = "/index.php/tools/required";
+var CCM_BASE_URL = "http://freshdesk.com.pl";
+var CCM_REL = "";
+
+</script>
+
+
+<link rel="icon" href="/files/1813/9885/7672/favicon.ico" type="image/x-icon" sizes="16x16 32x32 64x64"/>
+<link rel="shortcut icon" href="/files/1813/9885/7672/favicon.ico" type="image/x-icon" sizes="16x16 32x32 64x64"/>
+<style type="text/css"> 
+#blockStyle7902BodyContent195 {background-repeat:no-repeat; } 
+#blockStyle7903BodyContent195 {background-repeat:no-repeat; } 
+#blockStyle7904BodyContent195 {background-repeat:no-repeat; } 
+</style>
+<meta property="og:title" content="Freshdesk – system helpdesk do wspomagania Klientów | Obsługa klienta online - Freshdesk" />
+<meta property="og:description" content="Freshdesk – system pomocy helpdesk. Obsługujemy wiele kanałów, aby wspierać Twoich Klientów – email, telefon, chat, WWW, Facebook, Twitter" />
+<meta property="og:type" content="article" />
+<meta content='humans.txt' name='author'>
+<!--[if IE]>
+<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+<meta content='on' http-equiv='cleartype'>
+<![endif]-->
+
+<!-- Mobile & iOS Considerations -->
+<meta name='viewport' content='width=device-width' initial-scale='1.02', maximum-scale='1.0'>
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<!-- <meta content='true' name='HandheldFriendly'>
+<meta content='320' name='MobileOptimized'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='black-translucent' name='apple-mobile-web-app-status-bar-style'> -->
+<link href='/themes/freshdesk/images/favicons/splash.png' rel='apple-touch-startup-image'>
+<meta content='telephone=no' name='format-detection'>
+<meta content='address=no' name='format-detection'>
+
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700,900&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+<meta name="google-site-verification" content="vpBZ2F6FQwj7UZiCPdKSnlkVVTkS_Nt_52urFzsZJxA" /><!-- START Error detection Bugsnag -->
+<script
+  src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js"
+  data-apikey="7582e20406e8eb5230664e8fec50f143">
+</script>
+<!-- END Error detection Bugsnag -->
+<!-- Styles -->
+<link type="text/css" rel="stylesheet" media="all" href="/themes/freshdesk/stylesheets/freshdesk.css?v2" />
+<script type="text/javascript" src="/themes/freshdesk/javascripts/head.js"></script>
+<!-- codemirror lib init -->
+
+<script type="text/javascript">	
+	window['page'] = {  cID : 874,  
+						theme_path: "/themes/freshdesk"  };
+    </script>  </head>
+  <body>
+  
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NMZMJM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NMZMJM');</script>
+<!-- End Google Tag Manager -->	
+<header>
+  <div class="top-nav-strip">
+	<div class="l-page">
+		<nav class="top-site-nav">
+			<ul>
+              	<li><a href="http://support.freshdesk.com" class="nav-link">Pomoc</a></li>
+				<li><a href="http://blog.freshdesk.com/" class="nav-link">Blog</a></li>
+               	<li id="lang-switch" class="lang-switch">
+                  <a href="http://freshdesk.com.pl" class="nav-link">Polski</a>
+					<ul class="list-sub"id="lang-select">
+                        <li><a href="http://freshdesk.com">English</a></li>
+						<li><a href="http://freshdesk.de">Deutsch</a></li>
+						<li><a href="http://freshdesk.nl">Dutch</a></li>
+						<li><a href="http://freshdesk.es">Español</a></li>
+						<li><a href="http://freshdesk.fr">Français</a></li>
+                      	<li><a href="http://freshdesk.com.br">Português</a></li>
+						<li><a href="http://freshdesk.hk">中文</a></li>
+						<li><a href="http://freshdesk.kr">한국어</a></li>
+					</ul>
+				</li>
+              	<li class="top-nav-contact">
+                  <i class="icon-contact muted"></i>
+                  <a href="#" class="nav-link">+1 (866) 832-3090</a>
+              	</li>
+			</ul>
+		</nav>
+	</div>
+  </div>
+  <div class="header">
+    <div class="l-page"> 
+      <a href="http://freshdesk.com.pl" class="logo"></a>
+     <button class="menu-icon show-in-mobile show-in-tablet"></button>
+        <nav class="fc site-nav" id="header-tabs">
+        	<ul>
+               		<li><a href="/helpdesk-tour" id="555-header-nav" class="nav-link">Tour</a></li>
+        		<li><a href="/pricing" id="510-header-nav" class="nav-link">Ceny</a></li>
+        		<!--<li><a href="/customers" id="502-header-nav" class="nav-link">Customers</a></li>
+        		<li><a href="http://blog.freshdesk.com" class="nav-link">Blog</a></li>-->
+        		<!--<li><a href="http://support.freshdesk.com" class="nav-link">Pomoc</a></li>-->
+        		<li><a href="/signup" id="signup-header-nav" class="btn btn-mini">Rejestracja</a></li>	
+        		<!--<li class="nav-contact">
+        			<i class="icon-phone"></i>
+        			<a href="/contact">kontakt</a>
+        		</li>-->
+        	</ul>
+        </nav>
+    </div>
+  </div>
+</header>
+<style>
+  .site-nav .nav-link{padding-top:19px;}
+  .top-site-nav .top-nav-contact{font-weight:500;}
+  .top-site-nav .top-nav-contact .icon-contact{ vertical-align:middle; margin-top:0;}
+  .top-site-nav .top-nav-contact li:last-child{ padding-right:0;}
+</style>
+<script type="text/javascript">
+        // Selected tab for header navigation
+	jQuery("#"+page['cID']+"-header-nav").addClass("active")
+	// remove signup btn class if current page is the home page
+    // if(page['cID'] === 7597) jQuery("#signup-header-nav").removeClass("btn btn-mini").addClass('nav-link');
+</script>	
+	
+<section class="banner banner-index">
+        	<div class="l-page">
+        		<div class="fc">
+        			<!--banner-left-->
+        			<div class="fg-8">
+        				<h1 class="bs-heading">Wszystko, czego potrzebujesz, aby zapewnić</h1>
+        				<h2 class="b-heading">wyjątkową obsługę swoim Klientom.</h2>
+        				<hr class="su-divider hide-in-mobile">
+        			<div class="su-box hide-in-mobile">
+        				<!--<div class="cust-img" style="width:50px; height:50px">
+<img src="/download_file/view_inline/1339" width="61px" height="61px" />
+        				</div>-->
+        				<div class="su-quote">	
+                          <span class="quote"></span>
+        					<blockquote class="cq-banner default">
+        						Dzięki aplikacji Freshdesk codziennie obsługujemy zapytania i zgłoszenia od naszych klientów, operatorów usług telewizyjnych, dla których bardzo ważny jest czas krótki czas reakcji. Szukaliśmy systemu, który będzie prosty i wygodny w obsłudze oraz jednocześnie potrafi dopasować się do naszych specyficznych potrzeb. Freshdesk doskonale spełnia nasze oczekiwania!
+        					</blockquote>
+                          <div class="cq-author">
+                            <span class="p-name">Martin Šimka,</span> 
+        					<span class="c-name">evio.pl</span>
+                          </div>
+        				</div>
+        			</div>
+                      <div class="btn-home show-in-mobile">	
+                         <a href="/signup" class="btn btn-large btn-dark multi-lang">ZAREJESTRUJ SIĘ ZA DARMO!</a>
+	        			</div>
+        			</div>
+        			<!--Banner-right //// form //// -->
+        			<div class="fg-4 form omega">
+        				<section class="b-form">
+        	<form id="signup" method="post" action="#">
+        		<fieldset>
+        			<div class="textfield">
+        				<i class="icon-user"></i>
+        				<input type="text" class="text" size="24" autocomplete="off" 
+        					name="user[name]" id="user_name" placeholder="Imię i nazwisko">
+        			</div>
+        			<div class="textfield">
+                                        <input type="hidden" name="utc_offset" id="account_timezone_offset" />
+        				<i class="icon-envelope"></i>
+        				<input type="email" class="text" size="24" autocomplete="off" 
+        					name="user[email]" id="user_email" placeholder="Email" /> 
+        			</div>
+        			<div class="textfield">
+        				<i class="icon-office"></i>
+        				<input type="text" class="text" size="24" autocomplete="off" 
+        					name="account[name]" id="account_name" placeholder="Firma" />
+        			</div>
+        			<div class="textfield">
+        				<i class="icon-globe"></i>
+        				<div class="domain">									
+        					<input type="text" class="text" value="" size="24" maxlength="60" rel="ghostWriter" 
+        						autocomplete="off" name="account[domain]" id="account_domain" 
+        						placeholder="Nazwa profilu" 
+        						data-ghost-text=".freshdesk.com" class="cancel_border" />
+        				</div>
+        			</div>
+        			<div class="textfield bottom-line">
+        				<i class="icon-mobile"></i>
+        				<input type="text" size="24" class="text" autocomplete="off" 
+        					name="user[phone]" id="user_phone" placeholder="Numer telefonu" />
+        			</div>
+        			<div class="signup_error_land" id="signup_error" style="display:none;"></div>
+        		</fieldset>
+
+                    <!--- Hidden fields required for Conversion Metrics -->
+						<input type="hidden" name="session_json" id="session_json" value="">
+						<input type="hidden" name="first_referrer" id="first_referrer" value="">
+						<input type="hidden" name="first_landing_url" id="first_landing_url" value="">
+						<input type="hidden" name="first_search_engine" id="first_search_engine" value="">
+						<input type="hidden" name="first_search_query" id="first_search_query" value="">
+						<input type="hidden" name="pre_visits" id="pre_visits" value="">
+                    <!--- END OF Hidden fields required for Conversion Metrics -->
+        		<fieldset>
+        			<div class="top-space-medium">
+        				<input class="btn btn-medium btn-block" type="submit" id="signup_button" type="submit" 
+        					title="Freshdesk's Help desk Software - FREE Signup" value="UTWÓRZ KONTO" />
+        			</div>
+        		</fieldset>
+        	</form>
+        	<div id="error_container"></div>
+        </section>
+        			</div>
+        		</div>
+        	</div>
+        </section>
+<div class="banner-secondary">
+  <div class="l-page geo-company-logos">
+    <div class="trusted-label">
+      Trusted By
+    </div>
+ <div id="geo-banner-logos">
+<img class='flipkart' src='/files/3614/0229/4063/petrsons1.png' alt='USA Customers' width='15%' height='54' /><img class='star' src='/files/4513/8777/6812/US_Gaiam.png' alt='USA Customers' width='15%' height='54' /><img class='naukri' src='/files/9513/8777/6812/US_Goodreads.png' alt='USA Customers' width='15%' height='54' /><img class='decathlon' src='/files/4713/9347/7662/unicef.png' alt='USA Customers' width='15%' height='54' /><img class='makemytrip' src='/files/1913/8777/6813/US_theAtlantic.png' alt='USA Customers' width='15%' height='54' />
+    </div>
+  </div><style>.geo-company-logos .trusted-label{ font-size: 21px;
+font-size: 1.3125rem; }
+#geo-banner-logos{text-align:center}
+</style>
+</div>  	<div id="home-dial" class="clearfix content-strip whitebg hpk-c fd-autoplay hide-in-mobile" data-duration="3000" data-slide-item="#knob-message .knob-message" data-trigger-item="#knob-icons a" data-waypoint="true" data-offset="160px">
+<h2 class="text-center clearfix">Wspieraj Klientów niezależnie od tego, gdzie są.</h2>
+<div class="l-page top-space-large">
+<div id="hpk-icons" class="hpk">
+<div class="hpk-circle"></div>
+<div id="knob-icons"><a class="gfx-v-mail knob" href="javascript:void(0)"> <img src="/themes/freshdesk/images/icons/mail-icon.svg" alt="Offer best-in-class Email customer support" /> </a> <a class="gfx-v-globe knob" href="javascript:void(0)"> <img src="/themes/freshdesk/images/icons/globe-icon.svg" alt="Get customer feedback from your website" /> </a> <a class="gfx-v-comments knob" href="javascript:void(0)"> <img src="/themes/freshdesk/images/icons/comments-icon.svg" alt="Create your brand through community forums" /> </a> <a class="gfx-v-social knob" href="javascript:void(0)"> <img src="/themes/freshdesk/images/icons/social-icon.svg" alt="Get proactive and support customers through Facebook and Twitter" /> </a> <a class="gfx-v-mobile knob" href="javascript:void(0)"> <img src="/themes/freshdesk/images/icons/mobile-icon.svg" alt="Support customers through phone" /> </a></div>
+<div id="knob-message">
+<div class="knob-message">
+<div class="knob-msg-item"><em class="mail-icon"> </em>
+<h3>Mail</h3>
+<p>Bądź pewien, że każda sprawa nadesłana e-mailem zostanie pomyślnie rozwiązana. Ku radości Twoich Klientów.</p>
+<p>Zmień e-maile w pozytywne doświadczenia</p>
+</div>
+</div>
+<div class="knob-message">
+<div class="knob-msg-item"><em class="globe-icon"> </em>
+<h3>Twoja strona internetowa</h3>
+<p>Zmień każdego gościa swojej strony internetowej w lojalnego Klienta, pokazując, że Ci zależy.</p>
+<p>Zacznij angażować gości</p>
+</div>
+</div>
+<div class="knob-message">
+<div class="knob-msg-item"><em class="comments-icon"> </em>
+<h3>Społeczność Twojej marki</h3>
+<p>Pozwól Klientom dzielić się spostrzeżeniami, dyskutować, angażować się i budować Twoją markę. W Twoim serwisie!</p>
+<p>Zbuduj społeczność marki</p>
+</div>
+</div>
+<div class="knob-message">
+<div class="knob-msg-item"><em class="social-icon"> </em>
+<h3>Kanały społecznościowe</h3>
+<p>Bądź proaktywny i wspieraj Klientów nim się do Ciebie odezwą.</p>
+<p>Uspołecznij swoją obsługę Klienta</p>
+</div>
+</div>
+<div class="knob-message">
+<div class="knob-msg-item"><em class="mobile-icon"> </em>
+<h3>Telefon</h3>
+<p>Zaskocz swoich Klientów, gdy zadzwonią na Twoją infolinię.</p>
+<p>Dostarcz wsparcie przez telefon</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div id="gcs-sc-c" class="clearfix content-strip teelbg fd-autoplay" data-trigger-item="#gcs-sc .sc-unit" data-waypoint="true" data-slide-item="#gcs-images img">
+<div class="l-page">
+<h2 class="text-center top-space-large">Wszystko, czego potrzebujesz, aby uszczęśliwić Klientów. Za każdym razem.</h2>
+<div class="fc">
+<div id="gcs-sc" class="fg-4 screen-controls">
+<div class="sc-unit active">
+<h3 class="cs-heading ticketing">System ticketowania</h3>
+<p>Pozbądź się czarnych dziur w pomocy Klientom. Po prostu zaznacz, śledź, przydzielaj i idź dalej.</p>
+</div>
+<div class="sc-unit">
+<h3 class="cs-heading self-service">Prosty mechanizm wzajemnej pomocy</h3>
+<p>Zbuduj społeczność zaangażowanych Klientów. Na Twoim terenie!</p>
+</div>
+<div class="sc-unit">
+<h3 class="cs-heading team-inbox">Skrzynka całego zespołu</h3>
+<p>Współpracuj nad trudnymi przypadkami bez wchodzenie sobie w kompetencje.</p>
+</div>
+</div>
+<div id="gcs-images" class="fg-8 omega hide-in-mobile">
+<div class="img-frame img-frame-stack top-space-medium"><img class="active" src="/download_file/view_inline/520" alt="Freshdesk - best in class ticketing" width="720px" height="410px" /> <img src="/download_file/view_inline/1136" alt="Offer seamless self-service experience with Freshdesk" width="720px" height="410px" /> <img src="/download_file/view_inline/522" alt="Freshdesk - the team-wide inbox" width="720px" height="410px" /></div>
+</div>
+</div>
+</div>
+</div><div class="clearfix content-strip whitebg">
+<div class="l-page">
+<h2 class="text-center">Twój support. Twój świat. Twoje zasady</h2>
+</div>
+</div>	<div id="blockStyle7902BodyContent195" class="banner-video ccm-block-styles" >
+<div class="fc top-space-large l-page">
+			<div class="fg-6 top-space-medium img-frame">
+			<img data-src='/files/3913/7578/3823/bend-it-your-rules.jpg' class='loading' width='525' height='341' alt='Customize customer support workflows with Freshdesk' title='Customize customer support workflows with Freshdesk' />			
+					</div>
+	
+	<div class="fg-6 omega responsive-post">
+		 
+		
+					<h4>Dostosuj go do swoich proces&oacute;w</h4>
+				
+					<p>Wnieś swoje zasady biznesowe, zautomatyzuj procesy i decyduj, kiedy eskalować daną sprawę. Dostosuj mechanizmy Freshdeska, tak, by Twoi Klienci byli najbardziej zadowolonymi Klientami na świecie!</p>		
+			</div>
+</div></div>	<div id="blockStyle7903BodyContent195" class="banner-video ccm-block-styles" >
+
+<div class="fc top-space-large l-page">
+	<div class="fg-6">
+		 
+		
+					<h4>Obiecaj i dostarcz zakładany poziom pomocy</h4>
+				
+					<p>Dostarczaj swoim Klientom dokładnie takiej pomocy, jakiej oczekują. Za każdym razem. Ale też pamiętaj o świętach z najbliższymi – Freshdesk uwzględnia dni wolne!</p>		
+			</div>
+
+			<div class="fg-6 omega top-space-medium img-frame">
+			<img data-src='/files/6213/9149/7840/deliver-service-rules.jpg' class='loading' width='525' height='341' alt='Promise and deliver customer service levels with Freshdesk' title='Promise and deliver customer service levels with Freshdesk' />				
+					</div>
+	</div></div>	<div id="blockStyle7904BodyContent195" class="banner-video ccm-block-styles" >
+<div class="fc top-space-large l-page">
+			<div class="fg-6 top-space-medium img-frame">
+			<img data-src='/files/8313/7578/3942/reports-you-want.jpg' class='loading' width='525' height='345' alt='Twórz dokładnie takie raporty, jakich potrzebujesz' title='Tw&oacute;rz dokładnie takie raporty, jakich potrzebujesz' />			
+					</div>
+	
+	<div class="fg-6 omega responsive-post">
+		 
+		
+					<h4>Tw&oacute;rz dokładnie takie raporty, jakich potrzebujesz</h4>
+				
+					<p>Wsparcie Klienta oraz dobre raportowanie często nie idą w parze. Dlatego kładziemy nacisk na to, byś mógł samodzielnie spersonalizować, wygenerować i ściągnąć każdy raport, jakiego potrzebujesz, kiedy tylko chcesz. Tak, abyś mógł wyciągnąć z niego cenne wnioski…</p>		
+			</div>
+</div></div>
+<br /><br /><div class="content-strip teelbg space-bg">
+<div class="l-page">
+<h2 class="text-center">Nie pozwól, by nuda dopadła Twoich konsultantów</h2>
+<div class="fc text-center">
+<div class="fg-4"><em class="icon-gamification"></em>
+<h3>Spraw, aby pomoc Klientom była zabawą</h3>
+<p>Przegoń znużenie wspieraniem Klientów. Niech każde zadanie będzie okazją do zdobycia punktów! Utrzymuj motywację i zaangażowanie na wysokim poziomie dzięki Grze Freshdesk.</p>
+</div>
+<div class="fg-4"><em class="icon-report"></em>
+<h3>Mierz to, co ważne</h3>
+<p>Sprawdzaj i motywuj swoich pracowników w tych dziedzinach, które są naprawdę ważne dla Twoich Klientów – dostarczając szybką, dokładną odpowiedź i sprawiając, że będą najbardziej zadowolonymi Klientami pod słońcem.</p>
+</div>
+<div class="fg-4 omega"><em class="icon-team-sync"></em>
+<h3>Kontroluj zadania swojego zespołu</h3>
+<p>Potrzebujesz uzupełnić bazę wiedzy? Zależy Ci na podbiciu słupków satysfakcji Klientów? Albo zwiększeniu zaangażowania na Twoich forach? Ustal cele zespołu i nagradzaj zwycięzców!</p>
+</div>
+</div>
+<div class="text-center"><a class="btn btn-secondary" href="/signup">ZAGRAJ Z FRESHDESKIEM</a></div>
+<div class="space-man hide-in-mobile"> </div>
+</div>
+</div><div id="hp-sc-c" class="clearfix content-strip whitebg fd-autoplay" data-trigger-item="#hp-sc .sc-unit" data-waypoint="true" data-slide-item="#hp-sc-img img">
+<div class="l-page">
+<h2 class="text-center">Upiększ swój support z FreshThemes</h2>
+<div class="fc">
+<div id="hp-sc" class="fg-6 screen-controls">
+<div class="sc-unit">
+<h3 class="cs-heading theme-lab">Podkreśl, że to Twój serwis!</h3>
+<p>Twój support to Twoja marka. Zmiana logo, kolorów czy skórki to kwestia sekund. Jeśli Cię to nie przeraża, możesz dostosować arkusz CSS, dodać własne skrypty czy nawet zmienić layout serwisu!</p>
+</div>
+<div class="sc-unit">
+<h3 class="cs-heading theme-brush">Twoje zmiany są gotowe!</h3>
+<p>Tylko po co przekopywać się przez CSS czy JavaScript, gdy masz dostęp do galerii FreshThemes, z której możesz wybierać i dostosowywać ulepszenia</p>
+</div>
+</div>
+<div id="hp-sc-img" class="fg-6 omega hide-in-mobile">
+<div class="img-frame img-frame-stack top-space-medium"><img class="active" src="/download_file/view_inline/526" alt="" /> <img src="/download_file/view_inline/527" alt="" /></div>
+</div>
+</div>
+</div>
+</div>
+	
+<footer class="footer" id="multi-lang-footer">
+<!--footer strip -->
+<div class="footer-strip">
+	<div class="l-page fc">
+      <h4 class="fg-8" style="font-size:24px;">Bądź gotowy na wyjątkową obsługę Klienta w mniej niż 30 sekund!</h4>
+		<div class="fg-4 omega align-right top-space-small">
+			<a href="/signup" class="btn">ZAREJESTRUJ SIĘ ZA DARMO!</a>
+		</div>
+	</div>
+</div>
+
+<!--footer links-->
+<div class="l-page clearfix footer-wrapper">
+  <div class="fg-6">
+	<div class="fg-5">
+			<ul class="fmenu">
+				<li class="fhead">Produkt</li>
+				<li><a href="/">Strona domowa</a></li>
+				<li><a href="/helpdesk-tour">Tour</a></li>
+				<li><a href="/pricing">Ceny</a></li>
+			</ul>
+	</div>
+	<div class="fg-6">
+		<ul class="f-social">
+			<li>Obserwuj nas!</li>
+			<li class="top-space-small" id="footer-social-icons">
+				<a target="_blank" href="http://www.linkedin.com/company/1377014"><i class="icon-linkedin"></i></a>
+				<a target="_blank" href="https://www.facebook.com/freshdesk/"><i class="icon-facebook"></i></a>
+				<a target="_blank" href="https://twitter.com/freshdesk"><i class="icon-twitter"></i></a>
+				<a target="_blank" href="http://www.youtube.com/freshdesk"><i class="icon-youtube"></i></a>
+				<a target="_blank" href="https://plus.google.com/104314544092549602183/posts"><i class="icon-google-plus"></i></a>
+			</li>
+		</ul>
+	</div>
+  </div>
+	<div class="fg-6 omega f-s-div blog-contacts">
+		<div class="fg-6">
+			<ul class="f-contact">
+				<li>kontakt</li>
+				<li class="top-space-small fc">
+					<i class="icon-phone"></i> 
+					<span><a href="#">+1 (866) 832-3090</a></span>
+				</li>
+				<li class="top-space-small fc">
+					<i class="icon-envelope-alt"></i> 
+					<span class="f-mail-span"><a href="mailto:support@freshdesk.com" class="f-mail">    support@freshdesk.com</a></span>
+				</li>
+			</ul>
+		</div>
+
+		<div class="fg-6 omega">
+			<ul class="f-contact">
+				<li class="top-space-small f-location clearfix fc">
+					<i class="icon-location"></i> 
+					<span>
+						<b>Freshdesk, Inc</b><br>
+							311 California St<br>
+							San Francisco, CA, 94104
+					</span>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<!--copy and privacy policy link-->
+<div class="l-page fc copy-separator">
+	<div class="fg-6 footer-bottom-link">
+		
+	</div>
+	<div class="fg-4 omega copy">
+		Copyright © Freshdesk Inc. All Rights Reserved.
+	</div>
+</div>
+</footer>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20651269-14', 'freshdesk.com.pl');
+  ga('send', 'pageview');
+
+</script>
+
+    
+    <!-- Add all.js minified -->
+<script type="text/javascript" src="/themes/freshdesk/javascripts/all.js"></script>
+<script type="text/javascript" src="/themes/freshdesk/javascripts/signup.js"></script>
+<script type="text/javascript"> TRANSLATED = LITERALS["default"] </script>
+  </body>
+</html>

@@ -1,0 +1,575 @@
+
+<!DOCTYPE html>
+<html class='no-js' lang='en-US'>
+  <head>
+    <!-- Site Info -->
+<meta charset='utf-8'>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>In app customer support for android apps | Freshdesk MobiHelp</title>
+<meta name="description" content="Bring your customer support right into your mobile app. Freshdesk MobiHelp - Free Help desk integration plugin for your Android app!" />
+<meta name="keywords" content=" in app customer support, free help desk plugin, integrated helpdesk for native apps, support tool for Android mobile applications, mobile SDK," />
+<meta name="generator" content="concrete5 - 5.6.1.2" />
+<script type="text/javascript">
+var CCM_DISPATCHER_FILENAME = '/index.php';var CCM_CID = 1277;var CCM_EDIT_MODE = false;var CCM_ARRANGE_MODE = false;var CCM_IMAGE_PATH = "/concrete/images";
+var CCM_TOOLS_PATH = "/index.php/tools/required";
+var CCM_BASE_URL = "http://freshdesk.com";
+var CCM_REL = "";
+
+</script>
+
+
+<link rel="icon" href="/files/1813/9885/7672/favicon.ico" type="image/x-icon" sizes="16x16 32x32 64x64"/>
+<link rel="shortcut icon" href="/files/1813/9885/7672/favicon.ico" type="image/x-icon" sizes="16x16 32x32 64x64"/>
+<style type="text/css"> 
+#blockStyle14389BodyContentLayout2Cell1195 {background-repeat:no-repeat; } 
+#blockStyle14390BodyContentLayout2Cell1301 {background-repeat:no-repeat; } 
+#blockStyle14391BodyContentLayout2Cell1195 {background-repeat:no-repeat; } 
+#blockStyle14481BodyContentLayout2Cell1302 {background-repeat:no-repeat; } 
+#blockStyle15164BannerContent195 {background-repeat:no-repeat; } 
+</style>
+<meta property="og:title" content="In app customer support for android apps | Freshdesk MobiHelp" />
+<meta property="og:description" content="Bring your customer support right into your mobile app. Freshdesk MobiHelp - Free Help desk integration plugin for your Android app!" />
+<meta property="og:type" content="article" />
+<meta content='humans.txt' name='author'>
+<!--[if IE]>
+<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+<meta content='on' http-equiv='cleartype'>
+<![endif]-->
+
+<!-- Mobile & iOS Considerations -->
+<meta name='viewport' content='width=device-width' initial-scale='1.02', maximum-scale='1.0'>
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<!-- <meta content='true' name='HandheldFriendly'>
+<meta content='320' name='MobileOptimized'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='black-translucent' name='apple-mobile-web-app-status-bar-style'> -->
+<link href='/themes/freshdesk-polygon/images/favicons/splash.png' rel='apple-touch-startup-image'>
+<meta content='telephone=no' name='format-detection'>
+<meta content='address=no' name='format-detection'>
+
+<script src="//cdn.optimizely.com/js/2447560213.js"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700,900,300italic" />
+<meta name="google-site-verification" content="CJ87b5cI_Ak0YlozUuvsYL3Zna824gLD01Hx79X5F1Y" />
+<meta name="msvalidate.01" content="9F284CBDFE2FD1C86D4727496E2447E8" />
+<style>.acol{color:#000;} .mphone{ border-left:0; border-right: 1px solid #ccc; padding-right: 20px;}</style><!-- Styles -->
+<link type="text/css" rel="stylesheet" media="all" href="/themes/freshdesk-polygon/stylesheets/freshdesk.css?v4" />
+
+<script type="text/javascript" src="/themes/freshdesk-polygon/javascripts/head.js"></script>
+<script type="text/javascript" src="/themes/freshdesk-polygon/javascripts/respond.min.js"></script>
+<!-- codemirror lib init -->
+
+<script type="text/javascript">	
+	window['page'] = {  cID : 1277,  
+						theme_path: "/themes/freshdesk-polygon"  };
+    </script>  </head>
+  <body>
+    
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KH9KHM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KH9KHM');</script>
+<!-- End Google Tag Manager -->
+<!-- <script type="text/javascript"> TRANSLATED = LITERALS["default"] </script> -->
+
+<script type="text/javascript">
+  !function( $ ) {
+    
+    $(function () {
+      
+      "use strict"
+      var url = ""; 
+try{
+      url = getParameterByName("redirect");
+}catch(e){
+}
+      if(!/(http|https):\/\/(.*).freshdesk.com\/(.*)/.test(url)) return;
+      
+      $('#account_redirect_link').attr("href",url);
+      var messages = TRANSLATED.thankyoumsg;
+      
+      if($("#thankyou_message").get(0)){
+        $.each(messages, function(i, item){
+          setTimeout( function(){ 
+            if(item != "_redirect")
+              $("#thankyou_message").text(item);				
+            else
+              top.location = url;
+          }, (i)*1300 );
+        });		
+      }
+    })
+    
+  }(window.jQuery);
+</script>
+<script type="text/javascript">
+	window['signup-thankyou-url'] = "/signup/thank-you"
+</script>	
+<header class="fd-header">
+  <div class="top-nav-strip">
+	<div class="l-page">
+		<nav class="top-site-nav">
+			<ul>
+				<li><a href="/login" class="nav-link">Login</a></li>
+				<li><a href="http://support.freshdesk.com" class="nav-link">Support</a></li>
+				<li><a href="http://blog.freshdesk.com/" class="nav-link">Blog</a></li>
+				<li><a href="/about" class="nav-link">About</a></li>
+                <li id="lang-switch">
+					<a href="http://freshdesk.com" class="nav-link">English</a>
+					<ul class="list-sub" id="lang-select">					
+						<li><a href="http://freshdesk.de">Deutsch</a></li>
+						<li><a href="http://freshdesk.nl">Dutch</a></li>
+						<li><a href="http://freshdesk.es">Español</a></li>
+						<li><a href="http://freshdesk.fr">Français</a></li>
+						<li><a href="http://freshdesk.com.br">Português</a></li>
+						<li><a href="http://freshdesk.com.pl">Polski</a></li>
+                      	<li><a href="http://freshdesk.it">Italiano</a></li>
+						<li><a href="http://freshdesk.hk">中文</a></li>
+						<li><a href="http://freshdesk.kr">한국어</a></li>
+                      	<li><a href="http://cn.freshdesk.com">中文简体‍</a></li>
+						<li><a href="http://se.freshdesk.com">Swedish</a></li>
+						<li><a href="http://freshdesk.ru">Pусский</a></li>
+						<li><a href="http://freshdesk.jp">日本語</a></li>
+					</ul>
+				</li>
+              <li class="top-nav-contact"><a href="/contact" class="nav-link">
+					Contact Us</li>
+			</ul>
+		</nav>
+	</div>
+</div>
+<div class="header fd-sticky fc">
+	<section class="fd-home-sticky">
+		<div class="l-page"> 
+			<a href="/" class="fd-logo"></a>
+			<button class="show-in-mobile menu-icon"></button>
+			<nav class="site-nav">
+			<ul>
+              <li class="h-head"><span class="nav-link product-tab">Product</span>
+                  <ul class="sub-menu">
+                      <li>
+                          <a href="/tour">Freshdesk
+                          <span class="nav-menu-info muted">Customer Support Software</span>
+                          </a>
+                      </li>
+                      <li>
+                          <a href="http://www.freshservice.com/">Freshservice
+                          <span class="nav-menu-info muted">Internal IT Helpdesk</span></a>
+                      </li>
+                      <li>
+                          <a href="/mobihelp">Mobihelp
+                          <span class="nav-menu-info muted">In-app support for Mobile Apps</span></a>
+                      </li>
+                  </ul>
+              </li>
+
+                <li class="h-head"><a href="/helpdesk-tour" class="nav-link feature-tab">Features</a>
+                    <ul class="sub-menu">
+                        <li><a href="/ticketing">Powerful Ticketing</a></li>
+                        <li><a href="/multichannel-support">Multichannel Support</a></li>
+                        <li><a href="/productivity">Productivity and Engagement</a></li>
+                        <li><a href="/self-service">Self Service Portal</a></li>
+                        <li><a href="/global-helpdesk">Global Customer Support</a></li>
+                        <li><a href="/secure-helpdesk">Secure Helpdesk</a></li>
+                        <li><a href="/reporting">Reporting and Analytics</a></li>
+                        <li><a href="/third-party-apps">Integrations and Apps</a></li>
+                        <li><a href="/helpdesk-features">All Features</a></li>
+                    </ul>
+                </li>
+                <li><a href="/pricing" class="nav-link pricing-tab">Pricing</a></li>
+                <li><a href="/customers" class="nav-link customers-tab">Customers</a></li>
+              	<li><a href="/integrations" class="nav-link resources-tab">Integrations</a></li>
+                <li><a href="/signup" class="btn header-signup">Sign up</a></li>
+                <li class="mob"><a href="http://support.freshdesk.com" class="nav-link">Support</a></li>
+                <li class="mob"><a href="http://blog.freshdesk.com/" class="nav-link">Blog</a></li>
+                <li class="mob"><a href="/about" class="nav-link">About</a></li> 
+            </ul>
+          </nav>
+      </div>
+	</section>
+  </div>
+</header>	
+		<div id="blockStyle15164BannerContent195" class="banner-video ccm-block-styles" >
+
+<div class="inner-banner">
+<div class="inner-banner-strip">
+<div class="l-page no-clear">
+<div class="banner-image nexus">
+  
+  <video width="280" loop="true" autoplay="true">
+    <source src="/images/mobihelp/mobihelp.mp4" type="video/mp4">
+    <source src="/images/mobihelp.webm" type="video/webm">
+</video>
+  
+  </div>
+  <h2 class="s-heading">In-app customer support for <br />mobile apps
+</h2>
+</div>
+</div>
+</div>
+<div class="w-grey no-clear" style="height: 180px;">
+<div class="l-page clearfix">
+<div class="banner-description">
+  <p>Support and engage your customers, right from within your app,<br /> by integrating the Mobihelp SDK</p>
+<div class="fg-8">
+	<div class="top-space-medium request-invite">
+		<form class="formNotEmpty" method="post" enctype="application/x-www-form-urlencoded" action="http://resources.freshdesk.com/index.php/leadCapture/save" id="mktForm_1016" name="mktForm_1016">
+            
+			<span>
+              <a class="btn" href="http://developer.freshdesk.com/mobihelp?=mobihelpios">DOWNLOAD iOS SDK</a>
+   <a class="btn" href="http://developer.freshdesk.com/mobihelp?=mobihelpandroid">DOWNLOAD ANDROID SDK</a>
+          
+				
+			</span>
+          
+		</form>
+	</div>
+</div>
+</div>
+</div>
+</div>
+  <!--Banner End-->
+
+  <div style="margin-left: 200px">
+      <a id="details_form" href="#data" class="inline_fancy" style="display:none;">
+        Sign up</a>
+
+      <div style="display:none" class="mobile-app-form">
+        <div id="data" class="request-invite">
+
+    <script type="text/javascript"> function mktoGetForm() {return document.getElementById('mktForm_1015'); }</script>
+
+    <h3>Another visit to your inbox...</h3>
+    <p>But before you go, tell us a little more about you.</p>
+
+    <form class="formNotEmpty" method="post" enctype="application/x-www-form-urlencoded" action="http://resources.freshdesk.com/index.php/leadCapture/save" id="mktForm_1015" name="mktForm_1015">
+
+
+      <span class='mktInput'>
+        <input style="width:92%;" class="mktFormText mktFormString mktFReq text-field" 
+            name="LastName" id="LastName" type='text' 
+            placeholder="Give us a name to call you by"
+            maxlength='255' tabIndex='1' />
+            <span class='mktFormMsg'></span>
+      </span>
+    
+      <span class='mktInput'>
+        <textarea class='mktFormTextarea mktFormTextarea text-area' 
+                  name="CustomerNote" id="CustomerNote" cols='20' rows='2' tabIndex='2' placeholder="We know you love talking about your app. Tell us a little bit more about the what, how and why of your app."></textarea>
+      <span class='mktFormMsg'></span></span>
+      
+      <span style="display:none;"><input type="text" name="_marketo_comments" value="" /></span>
+      <input type="hidden" name="lpId" value="-1" />
+      <input type="hidden" name="subId" value="398" />
+      <input type="hidden" name="kw" value="" />
+      <input type="hidden" name="cr" value="" />
+      <input type="hidden" name="searchstr" value="" />
+      <input type="hidden" name="lpurl" value="http://freshdesk.com/free-support-tools/help-desk-plugin-for-mobile-apps?cr={creative}&kw={keyword}" />
+      <input type="hidden" name="formid" value="1015" />
+      <input type="hidden" id = "details_form_submit_url" name="returnURL" value="http://www.freshpo.com/free-support-tools/help-desk-mobile-apps" />
+      <input type="hidden" name="retURL" value="" />
+      <input type="hidden" name="returnLPId" value="" />
+      <input type="hidden" name="_mkt_disp" value="return" />
+      <input type="hidden" name="_mkt_trk" value="" />
+
+      <input class="btn" id='mktFrmSubmit' type='submit' value='Submit' name='submitButton' onclick='formSubmit(document.getElementById("mktForm_1015")); return false;' />
+
+      <a href="https://twitter.com/share" class="twitter-share-button" data-text="iOS app users rejoice! we're getting MobiHelp soon!" data-via="freshdesk">Tweet</a>
+
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+    </form>
+
+        </div>
+      </div>
+</div>
+
+
+
+<!--Script for Mkto-->
+  <script type="text/javascript"> function mktoGetForm() {return document.getElementById('mktForm_1016'); }</script>
+<!--
+  <script type="text/javascript">
+    document.getElementById('details_form_submit_url').value = "http://" + window.location.host + "/free-support-tools/help-desk-plugin-mobile-apps";
+    document.getElementById('invite_form_submit_url').value = "http://" + window.location.host + "/free-support-tools/help-desk-plugin-mobile-apps?submitted=mobihelp";
+  </script>-->
+<style>.breadcrumb{height:35px;}
+  .nexus {height:0;}
+  .inner-banner-strip, .signup-banner-strip, .banner-teal{background-color:#21af87; background-image:none; }
+  .request-invite { text-align: initial;}
+  @media (max-width: 45em){
+    .nexus{ height:auto;}
+    .request-invite { text-align: center;}
+    .banner-description .fg-6{ width:100%}
+  }
+  .breadcrumb { display:none;}
+  @media (max-width: 60em) and (min-width: 45em){ 
+    .nexus{ display:none}    
+    .request-invite { text-align: center;}
+    .banner-description .fg-6{ width:100%}
+  }
+</style></div>  <div class="breadcrumb l-page"><span class="breadcrumb-level"></span><span class="breadcrumb-level"><a href="/" target="_self">Freshdesk</a></span><span class="breadcrumb-level"> <span class="breadcrumb-sep">/</span> MobiHelp</span></div><script type="text/javascript">
+   $(function(){
+      $('.breadcrumb-level a:first-child').text('Home');
+   })
+</script>	<div id="ccm-layout-wrapper-70670" class="ccm-layout-wrapper"><div id="ccm-layout-bodycontent-504-1" class="ccm-layout ccm-layout-table  ccm-layout-name-BodyContent-Layout-1 "><div class="fc l-page"><div class='fg-8 '><p dir="ltr" class="top-space-large">It’s just unbelievable, the number of things your app users have to do to get in touch with you. They have to stop catapulting birds, pull out their laptop and create new login credentials just to raise a support ticket! Terrible. This is especially aggravating considering how difficult it is compared to just going to the App Store, <span>giving your app a 1 star rating and moving on to the next app that meets their requirements.</span></p>
+<p>Well...not anymore! With Freshdesk’s Mobihelp, your users can give feedback, strike a conversation with your support and get every little "how-to" right from within your app.</p></div><div class='fg-4 omega'>&nbsp;</div></div></div></div><div id="ccm-layout-wrapper-70671" class="ccm-layout-wrapper"><div id="ccm-layout-bodycontent-647-2" class="ccm-layout ccm-layout-table  ccm-layout-name-BodyContent-Layout-2 "><div class="fc l-page"><div class='fg-12 '>	<div id="blockStyle14389BodyContentLayout2Cell1195" class="banner-video ccm-block-styles" >
+
+<section class="top-space-large fc l-page resp-pad mainimgwrapper">
+			<div class="fg-3 img-frame top-space-medium movedownimg">
+			<a href='/files/9014/0196/0465/1-Solutions.png' class="fancybox"> <img src='/files/1314/0196/0465/1-thumbnail-Solutions.png' width='300' height='236' alt='Collect feedback from your users, right inside your iOS app' title='Collect feedback from your users, right inside your iOS app' /> </a>
+					</div>
+	
+	<div class="fg-9 omega inner-blocks">
+		
+					<h5>Answers right when you need them</h5>
+		
+					<p dir="ltr">Where’s the fun in having an extensive knowledge base if your users can’t even get to it when they need it? Mobihelp lets you enhance your mobile user experience by bringing your knowledge base straight into your app; this way, your customers can look up solutions, read FAQs and find the solution to all of their problems without even leaving your app.</p>
+<p>And of course, if they need to talk to you personally, using Mobihelp to get support is just like chatting with a support rep. All your customers have to do is tap support to submit feedback and they get connected directly.</p>		
+			</div>
+</section>
+
+</div>	<div id="blockStyle14390BodyContentLayout2Cell1301" class="no-frame ccm-block-styles" >
+
+<section class="fc top-space-large l-page resp-pad inner-blocks">
+	<div class="fg-9">
+		
+					<h5>Airplanes have black boxes. Your app has Mobihelp.</h5>
+		
+					<p dir="ltr">When there are so many fun things to do, no one wants to take the time out to report bugs or explain themselves to a support guy. Especially if they have to answer a lot of questions to do so. They’d much rather just uninstall your app and forget the whole thing ever happened.</p>
+<p>Spare your users the technical mumbo-jumbo and find out what happened, without actually asking for info, with Mobihelp. Every time a ticket's created, Mobihelp records all the context you will ever need - including device name, operating system, app version etc. and adds them to your conversation automatically.</p>		
+			</div>
+			<div class="fg-3 align-right img-frame top-space-medium omega">
+			<a href='/files/5414/0196/0466/2-Blackbox.png' class="fancybox"> <img src='/files/8714/0196/0466/2-thumbnail-Blackbox.png' width='300' height='236' alt='' title='' /> </a>
+					</div>
+	</section>
+
+
+</div>	<div id="blockStyle14391BodyContentLayout2Cell1195" class="banner-video ccm-block-styles" >
+
+<section class="top-space-large fc l-page resp-pad mainimgwrapper">
+			<div class="fg-3 img-frame top-space-medium movedownimg">
+			<a href='/files/1914/0196/0467/3-Rate_our_app.png' class="fancybox"> <img src='/files/7214/0196/0469/3-thumbnail-Rate-our-app.png' width='300' height='236' alt='' title='' /> </a>
+					</div>
+	
+	<div class="fg-9 omega inner-blocks">
+		
+					<h5>Race to the top of the charts</h5>
+		
+					<p>Pop the question only when you’re sure of a resounding five-stars and a heartfelt review; Mobihelp lets you send out review requests, just like you can send out customer satisfaction surveys. That way, you can get that special review from your madcap users who just can’t stop using your app. Or even better, you could ask them to give you five stars on the fly.</p>		
+			</div>
+</section>
+
+</div>	<div id="blockStyle14481BodyContentLayout2Cell1302" class="no-frame ccm-block-styles" >
+
+<section class="fc top-space-large l-page resp-pad inner-blocks">
+	<div class="fg-9">
+		
+					<h5>Beta test your way to stardom</h5>
+		
+					<p dir="ltr">If you've just launched your app in beta, product hunters are probably dying to give you feedback and new ideas on what you should be doing next. With Mobihelp, you can engage with them, learn about their problems, and build out features that actually matter as you inch closer to launch.  </p>
+<p dir="ltr">The best part is that Mobihelp also automatically collects contextual information about your app - device logs, breadcrumbs, app versions etc. so that you have everything that you'll ever need to fix bugs, without asking your users a single question. </p>
+<div></div>		
+			</div>
+			<div class="fg-3 align-right img-frame top-space-medium omega">
+			<a href='/files/5414/0975/2551/mobihelp_breadcrumbs_.png' class="fancybox"> <img src='/files/4914/0975/2548/mobihelp_breadcrums_thumbnail.png' width='300' height='236' alt='' title='' /> </a>
+					</div>
+	</section>
+
+
+</div>
+<br /><br />
+<center>
+<h5>
+  Get Mobihelp for free, and take your mobile app to the next level.
+</h5>
+  <br />
+  <a class="btn" href="http://developer.freshdesk.com/mobihelp?=mobihelpfooter">Get started now</a> 
+</center>
+
+</div></div></div></div><div id="ccm-layout-wrapper-70669" class="ccm-layout-wrapper"><div id="ccm-layout-bodycontent-646-3" class="ccm-layout ccm-layout-table w-grey-features ccm-layout-name-BodyContent-Layout-3 "><div class="fc l-page"><div class='fg-4 '><section class="feature-widget fc">
+	
+					<img src='/files/4213/7284/2795/gift.png' width='100' height='100' alt='' title='' />		
+					<h4 class="w-title">It&#039;s Free</h4>
+		
+					<p>Free forever. Unlimited monthly active users. </p>		
+	</section></div><div class='fg-4 '><section class="feature-widget fc">
+	
+					<img src='/files/2013/7244/5581/mobile-customer-support.png' width='100' height='100' alt='' title='' />		
+					<h4 class="w-title">It&#039;s Easy To Integrate</h4>
+		
+					<p>Integrate Mobihelp with your app in five minutes. </p>
+<p></p>		
+	</section></div><div class='fg-4 omega'><section class="feature-widget fc">
+	
+					<img src='/files/1913/7244/5598/suggest-solutions.png' width='100' height='100' alt='' title='' />		
+					<h4 class="w-title">It&#039;s Lightweight</h4>
+		
+					<p>It sits inside your app. You'll barely know it's there.</p>		
+	</section></div></div></div></div>
+<div class="primary-footer">
+	<div class="l-page">
+      <hr/>
+		<div class="pf-heading top-space-medium align-center">
+			<h2>30,000 Customers</h2>
+			<h4>Some of the world’s biggest brands use Freshdesk for their support.</h4>
+		</div>
+        <div class="jquery-script-clear"></div>
+        <div class="slider">
+			<div class="item"><img src="/files/3514/2062/7316/slide-01.jpg"></div>
+			<div class="item"><img src="/files/7014/2062/7313/slide-02.jpg"></div>
+			<div class="item"><img src="/files/5014/2062/7310/slide-03.jpg"></div>
+			<div class="item"><img src="/files/1814/2062/7308/slide-04.jpg"></div>
+			<div class="item"><img src="/files/5314/2062/7304/slide-05.jpg"></div>
+		</div>
+	
+		
+		<div class="pf-signup align-center fc">
+			<a href="/signup" class="btn btn-large">Get Started for free</a>
+		</div>
+	</div>
+</div>
+<style>.w-grey-features{background-color:#fff; border:0; }</style>	
+<footer class="footer">
+      <!-- Load a footer partial like: -->
+      <div class="l-page clearfix footer-wrapper">
+      	<div class="fg-8">
+      		<div class="fg-5">
+      			<ul class="f-contact">
+      				<li>Contact</li>
+      				<li class="top-space-small fc">
+                   		<span class="f-phone">
+                   			<i class="icon-new-phone"></i>
+                   			<span>+1 (866) 832-3090</span>
+                   		</span>
+      				</li>
+      				<li class="top-space-small fc">
+      					<i class="icon-mail"></i> 
+      					<span class="f-mail-span"><a href="mailto:support@freshdesk.com" class="f-mail">    support@freshdesk.com</a></span>
+      				</li>
+      				<form method="post" enctype="application/x-www-form-urlencoded" action="http://resources.freshdesk.com/index.php/leadCapture/save" id="mktForm_1032" class="formNotEmpty" name="mktForm_1032">
+      				<ul class="mktLblLeft blog-subs" title="Subscribe to Freshdesk Insider">
+      					<li class="subscribe">
+      						<span class="mktError">
+            						<input class="mktFormEmail mktFReq" name="Email" id="Email" type="email" placeholder="Enter your email ">
+            						<span class="mktFormMsg splRedMessage"></span>
+            					</span>
+      						<button id="mktFrmSubmit" name="submitButton" onclick="formSubmit(document.getElementById('mktForm_1032')); return false;"><i class="icon-right"></i></button>
+      					</li>
+      					<p>Subscribe to Freshdesk insider</p>
+      				</ul>
+      				
+      					<span style="display:none;"><input type="text" name="_marketo_comments" value=""></span>
+      					<input type="hidden" name="lpId" value="-1">
+      					<input type="hidden" name="subId" value="398">
+      					<input type="hidden" name="munchkinId" value="626-CPN-682">
+      					<input type="hidden" name="kw" value="">
+      					<input type="hidden" name="cr" value="">
+      					<input type="hidden" name="searchstr" value="">
+      					<input type="hidden" name="lpurl" value="http://resources.freshdesk.com/FooterSubscriptionTemplate.html?cr={creative}&amp;kw={keyword}">
+      					<input type="hidden" name="formid" value="1032">
+      					<input type="hidden" name="returnURL" value="http://www.freshdesk.com">
+      					<input type="hidden" name="retURL" value="http://www.freshdesk.com">
+      					<input type="hidden" name="returnLPId" value="-1">
+      					<input type="hidden" name="_mkt_disp" value="return">
+      					<input type="hidden" name="_mkt_trk" value="">
+      			</form>
+      				
+      			</ul>
+      
+      		</div>
+      		<div class="fg-3">
+      			<ul class="fmenu">
+      				<li class="fhead">Product</li>
+      				<li><a href="/helpdesk-features">All Features</a></li>
+      				<li><a href="/pricing">Pricing</a></li>
+      				<li><a href="/integrations">Integrations</a></li>
+      				<li><a href="/resources">Resources</a></li>
+      				<li><a href="http://support.freshdesk.com">Support</a></li>
+      				<li><a href="/api">API</a></li>
+      			</ul>
+      		</div>
+      		<div class="fg-4 omega">
+      			<ul class="fmenu">
+      				<li class="fhead">Top Features</li>
+      				<li><a href="/helpdesk-management/ticketing-system">Ticketing System</a></li>
+      				<li><a href="/helpdesk-management/knowledge-base">Knowledge Base</a></li>
+      				<li><a href="/customer-engagement/community-forum">Community Forums</a></li>
+      				<li><a href="/freshchat">Live Chat Support</a></li>
+      				<li><a href="/freshfone">Phone Support</a></li>
+      				<li><a href="/helpdesk-management/mobile-app-help-desk">Mobile In-app support</a></li>
+      			</ul>
+      		</div>
+      	</div>
+      	<div class="fg-4 omega parent2">
+      
+      		<div class="fg-4">
+      			<ul class="fmenu">
+      				<li class="fhead">Company</li>
+      				<li><a href="/about">About Freshdesk</a></li>
+      				<li><a href="/customers">Customers</a></li>
+      				<li><a href="/news">In the News</a></li>
+      				<li><a href="/about/careers">Careers</a></li>
+      				<li><a href="/partners">Partners</a></li>
+      			</ul>
+      		</div>
+      		<div class="fg-7 omega">
+      			<ul class="f-social contact-us">
+      				<li>Connect with us</li>
+      				<li class="top-space-small" id="footer-social-icons">
+      					<a href="http://www.linkedin.com/company/1377014" class="linkedin"><i class="icon-linkedin2"></i></a>
+      					<a href="https://www.facebook.com/freshdesk/" class="fb"><i class="icon-facebook"></i></a>
+      					<a href="https://twitter.com/freshdesk" class="twitter"><i class="icon-twitter"></i></a>
+      					<a href="http://www.youtube.com/freshdesk" class="youtube"><i class="icon-youtube2"></i></a>
+      					<a href="https://plus.google.com/104314544092549602183/posts" class="googleplus"><i class="icon-google-plus"></i></a>
+      				</li>
+      				
+      			</ul>
+      			<div class="fc top-space-medium app-widget">
+      				<span class="apple">
+      					<a href="https://itunes.apple.com/ca/app/freshdesk/id849713306?mt=8"><img src="/files/2014/1330/0980/appstore.png" width="90"></a>
+      				</span>
+      				<span class="android">
+      					<a href="http://ad.apps.fm/ozXtEc5ZI9HQ_q2ra73VL15KLoEjTszcQMJsV6-2VnHFDLXitVHB6BlL95nuoNYffAIOoczw-YGfIaoZYt7xO4LNOZ4hHcXlOAoj_MgX7b8gZe2OOIvCAxOQtZGmw1KoF6ewiom4sKC4xZyurG0g7Q"><img src="/files/9214/1330/0932/playstore.png" width="80"></a>
+      				</span>
+      			</div>
+      		</div>
+      	</div>
+      </div>
+      
+      	<!--copy and privacy policy link-->
+      	<div class="l-page fc copy-separator" id="nl-page">
+      		<div class="fg-6 footer-bottom-link">
+      			<ul class="clearfix">
+      				<li><a href="http://freshdesk.com/terms">TERMS OF SERVICE</a></li>
+      				<li><a href="http://freshdesk.com/privacy">PRIVACY POLICY</a></li>
+      				<li><a href="http://freshdesk.com/sitemap">SITEMAP</a></li>
+      			</ul>
+      		</div>
+      		<div class="fg-5 omega copy">
+      			Copyright © Freshdesk Inc. All Rights Reserved.
+      		</div>
+      	</div>
+  <!-- Widgets -->
+  <div class="fresh-widgets">
+		<div class="support-widget">
+				<i class="icon-support"></i><span class="light">Support</span>
+		</div>
+
+		<div class="chat-widget" id="chat-widget">
+				<i class="icon-chat"></i><span class="light">Chat with us</span>
+		</div>
+</div>
+</footer>
+    
+    <!-- Add all.js minified -->
+<script type="text/javascript" src="/themes/freshdesk-polygon/javascripts/all.js?v4"></script>
+<script type="text/javascript" src="/themes/freshdesk-polygon/javascripts/signup.js"></script>
+<script type="text/javascript"> TRANSLATED = LITERALS["default"] </script>
+
+  </body>
+</html>

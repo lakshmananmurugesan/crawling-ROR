@@ -1,0 +1,434 @@
+
+<!DOCTYPE html>
+<html class='no-js' lang='en-US'>
+  <head>
+    <!-- Site Info -->
+<meta charset='utf-8'>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>30,000 companies of all sizes use Freshdesk for customer support</title>
+<meta name="description" content="'Freshdesk is a really wonderful support application', says Kya from Bubble Hosting. See who's using Freshdesk and hear it from the customers themselves!" />
+<meta name="keywords" content="Freshdesk customers, freshdesk testimonials, freshdesk reviews, support application" />
+<meta name="generator" content="concrete5 - 5.6.1.2" />
+<script type="text/javascript">
+var CCM_DISPATCHER_FILENAME = '/index.php';var CCM_CID = 1499;var CCM_EDIT_MODE = false;var CCM_ARRANGE_MODE = false;var CCM_IMAGE_PATH = "/concrete/images";
+var CCM_TOOLS_PATH = "/index.php/tools/required";
+var CCM_BASE_URL = "http://freshdesk.com";
+var CCM_REL = "";
+
+</script>
+
+
+<link rel="icon" href="/files/1813/9885/7672/favicon.ico" type="image/x-icon" sizes="16x16 32x32 64x64"/>
+<link rel="shortcut icon" href="/files/1813/9885/7672/favicon.ico" type="image/x-icon" sizes="16x16 32x32 64x64"/>
+<style type="text/css"> 
+#blockStyle12693BodyContentLayout2Cell1270 {background-repeat:no-repeat; .feature-widget {padding-bottom: 30px;padding-top: 30px;text-align: left;}} 
+</style>
+<meta property="og:title" content="30,000 companies of all sizes use Freshdesk for customer support" />
+<meta property="og:description" content="'Freshdesk is a really wonderful support application', says Kya from Bubble Hosting. See who's using Freshdesk and hear it from the customers themselves!" />
+<meta property="og:type" content="article" />
+<meta content='humans.txt' name='author'>
+<!--[if IE]>
+<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+<meta content='on' http-equiv='cleartype'>
+<![endif]-->
+
+<!-- Mobile & iOS Considerations -->
+<meta name='viewport' content='width=device-width' initial-scale='1.02', maximum-scale='1.0'>
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<!-- <meta content='true' name='HandheldFriendly'>
+<meta content='320' name='MobileOptimized'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='black-translucent' name='apple-mobile-web-app-status-bar-style'> -->
+<link href='/themes/freshdesk-polygon/images/favicons/splash.png' rel='apple-touch-startup-image'>
+<meta content='telephone=no' name='format-detection'>
+<meta content='address=no' name='format-detection'>
+
+<script src="//cdn.optimizely.com/js/2447560213.js"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700,900,300italic" />
+<meta name="google-site-verification" content="CJ87b5cI_Ak0YlozUuvsYL3Zna824gLD01Hx79X5F1Y" />
+<meta name="msvalidate.01" content="9F284CBDFE2FD1C86D4727496E2447E8" />
+<style>.acol{color:#000;} .mphone{ border-left:0; border-right: 1px solid #ccc; padding-right: 20px;}</style><!-- Styles -->
+<link type="text/css" rel="stylesheet" media="all" href="/themes/freshdesk-polygon/stylesheets/freshdesk.css?v4" />
+
+<script type="text/javascript" src="/themes/freshdesk-polygon/javascripts/head.js"></script>
+<script type="text/javascript" src="/themes/freshdesk-polygon/javascripts/respond.min.js"></script>
+<!-- codemirror lib init -->
+
+<script type="text/javascript">	
+	window['page'] = {  cID : 1499,  
+						theme_path: "/themes/freshdesk-polygon"  };
+    </script>  </head>
+  <body>
+    
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KH9KHM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KH9KHM');</script>
+<!-- End Google Tag Manager -->
+<!-- <script type="text/javascript"> TRANSLATED = LITERALS["default"] </script> -->
+
+<script type="text/javascript">
+  !function( $ ) {
+    
+    $(function () {
+      
+      "use strict"
+      var url = ""; 
+try{
+      url = getParameterByName("redirect");
+}catch(e){
+}
+      if(!/(http|https):\/\/(.*).freshdesk.com\/(.*)/.test(url)) return;
+      
+      $('#account_redirect_link').attr("href",url);
+      var messages = TRANSLATED.thankyoumsg;
+      
+      if($("#thankyou_message").get(0)){
+        $.each(messages, function(i, item){
+          setTimeout( function(){ 
+            if(item != "_redirect")
+              $("#thankyou_message").text(item);				
+            else
+              top.location = url;
+          }, (i)*1300 );
+        });		
+      }
+    })
+    
+  }(window.jQuery);
+</script>
+<script type="text/javascript">
+	window['signup-thankyou-url'] = "/signup/thank-you"
+</script>	
+<header class="fd-header">
+  <div class="top-nav-strip">
+	<div class="l-page">
+		<nav class="top-site-nav">
+			<ul>
+				<li><a href="/login" class="nav-link">Login</a></li>
+				<li><a href="http://support.freshdesk.com" class="nav-link">Support</a></li>
+				<li><a href="http://blog.freshdesk.com/" class="nav-link">Blog</a></li>
+				<li><a href="/about" class="nav-link">About</a></li>
+                <li id="lang-switch">
+					<a href="http://freshdesk.com" class="nav-link">English</a>
+					<ul class="list-sub" id="lang-select">					
+						<li><a href="http://freshdesk.de">Deutsch</a></li>
+						<li><a href="http://freshdesk.nl">Dutch</a></li>
+						<li><a href="http://freshdesk.es">Español</a></li>
+						<li><a href="http://freshdesk.fr">Français</a></li>
+						<li><a href="http://freshdesk.com.br">Português</a></li>
+						<li><a href="http://freshdesk.com.pl">Polski</a></li>
+                      	<li><a href="http://freshdesk.it">Italiano</a></li>
+						<li><a href="http://freshdesk.hk">中文</a></li>
+						<li><a href="http://freshdesk.kr">한국어</a></li>
+                      	<li><a href="http://cn.freshdesk.com">中文简体‍</a></li>
+						<li><a href="http://se.freshdesk.com">Swedish</a></li>
+						<li><a href="http://freshdesk.ru">Pусский</a></li>
+						<li><a href="http://freshdesk.jp">日本語</a></li>
+					</ul>
+				</li>
+              <li class="top-nav-contact"><a href="/contact" class="nav-link">
+					Contact Us</li>
+			</ul>
+		</nav>
+	</div>
+</div>
+<div class="header fd-sticky fc">
+	<section class="fd-home-sticky">
+		<div class="l-page"> 
+			<a href="/" class="fd-logo"></a>
+			<button class="show-in-mobile menu-icon"></button>
+			<nav class="site-nav">
+			<ul>
+              <li class="h-head"><span class="nav-link product-tab">Product</span>
+                  <ul class="sub-menu">
+                      <li>
+                          <a href="/tour">Freshdesk
+                          <span class="nav-menu-info muted">Customer Support Software</span>
+                          </a>
+                      </li>
+                      <li>
+                          <a href="http://www.freshservice.com/">Freshservice
+                          <span class="nav-menu-info muted">Internal IT Helpdesk</span></a>
+                      </li>
+                      <li>
+                          <a href="/mobihelp">Mobihelp
+                          <span class="nav-menu-info muted">In-app support for Mobile Apps</span></a>
+                      </li>
+                  </ul>
+              </li>
+
+                <li class="h-head"><a href="/helpdesk-tour" class="nav-link feature-tab">Features</a>
+                    <ul class="sub-menu">
+                        <li><a href="/ticketing">Powerful Ticketing</a></li>
+                        <li><a href="/multichannel-support">Multichannel Support</a></li>
+                        <li><a href="/productivity">Productivity and Engagement</a></li>
+                        <li><a href="/self-service">Self Service Portal</a></li>
+                        <li><a href="/global-helpdesk">Global Customer Support</a></li>
+                        <li><a href="/secure-helpdesk">Secure Helpdesk</a></li>
+                        <li><a href="/reporting">Reporting and Analytics</a></li>
+                        <li><a href="/third-party-apps">Integrations and Apps</a></li>
+                        <li><a href="/helpdesk-features">All Features</a></li>
+                    </ul>
+                </li>
+                <li><a href="/pricing" class="nav-link pricing-tab">Pricing</a></li>
+                <li><a href="/customers" class="nav-link customers-tab">Customers</a></li>
+              	<li><a href="/integrations" class="nav-link resources-tab">Integrations</a></li>
+                <li><a href="/signup" class="btn header-signup">Sign up</a></li>
+                <li class="mob"><a href="http://support.freshdesk.com" class="nav-link">Support</a></li>
+                <li class="mob"><a href="http://blog.freshdesk.com/" class="nav-link">Blog</a></li>
+                <li class="mob"><a href="/about" class="nav-link">About</a></li> 
+            </ul>
+          </nav>
+      </div>
+	</section>
+  </div>
+</header>	
+	
+<div class="banner poly-customer-banner">
+	<div class="l-page no-clear poly-customer-content">
+      	<div class="ploy-cust-img"></div>
+		<h2 class="s-heading">30,000 customers</h2>
+          <div class="banner-description">
+            <p dir="ltr"><span id="docs-internal-guid-c40ecaee-8ea3-6f83-02c8-c00b92d1f157">
+              <span>Find out why companies of all sizes use Freshdesk for customer support</span></span>
+            </p>
+          </div>			
+	</div>
+</div>  <div class="breadcrumb l-page"><span class="breadcrumb-level"></span><span class="breadcrumb-level"><a href="/" target="_self">Freshdesk</a></span><span class="breadcrumb-level"> <span class="breadcrumb-sep">/</span> Customers</span></div><script type="text/javascript">
+   $(function(){
+      $('.breadcrumb-level a:first-child').text('Home');
+   })
+</script>	<div id="ccm-layout-wrapper-87469" class="ccm-layout-wrapper"><div id="ccm-layout-bodycontent-153-1" class="ccm-layout ccm-layout-table  ccm-layout-name-BodyContent-Layout-1 "><div class="fc l-page"><div class='fg-12 '><div id="ccm-layout-wrapper-87472" class="ccm-layout-wrapper"><div id="ccm-layout-bodycontent:layout1:cell1-644-1" class="ccm-layout ccm-layout-table  ccm-layout-name-BodyContent:Layout1:Cell1-Layout-1 "><div class="fc l-page"><div class='fg-12 '>&nbsp;</div></div></div></div><div id="ccm-layout-wrapper-87471" class="ccm-layout-wrapper"><div id="ccm-layout-bodycontent:layout1:cell1-643-2" class="ccm-layout ccm-layout-table  ccm-layout-name-BodyContent:Layout1:Cell1-Layout-2 "><div class="fc l-page"><div class='fg-6 '>
+<br /><br /><br /><br />  
+
+<h4 style="font-style:italic; padding-bottom:10px">
+"Freshdesk is a great tool. We can easily manage our tickets across social media and email. We like making people happy."
+</h4>
+<h6 style="font-style:italic; text-align:right; padding-right:30px">
+-Andrew Reeve, Honest Brew
+</h6>
+<br /><br /><br /></div><div class='fg-6 omega'>
+<iframe width="100%" height="315" src="//www.youtube.com/embed/iNhr0EgQSkw?rel=0" frameborder="0" allowfullscreen></iframe></div></div></div></div>
+<br /><hr><br />
+<center>
+<h3>
+  Just a few of our awesome customers
+</h3>
+  <br />
+</center>
+<img border="0" class="ccm-image-block" alt="Some of Freshdesk's awesome customers" src="/files/5314/0255/7673/customers-page-logos.jpg" width="1140" height="495" />
+<style>.primary-footer{display:none;}</style></div></div></div></div><div id="ccm-layout-wrapper-87470" class="ccm-layout-wrapper"><div id="ccm-layout-bodycontent-638-2" class="ccm-layout ccm-layout-table w-grey-features ccm-layout-name-BodyContent-Layout-2 "><div class="fc l-page"><div class='fg-4 '>	<div id="blockStyle12693BodyContentLayout2Cell1270" class=" ccm-block-styles" >
+<section class="feature-widget fc">
+	
+					<img src='/files/4313/7509/4293/pearson.png' width='133' height='41' alt='' title='' />		
+		
+					<p style="text-align: left;"><span id="docs-internal-guid-c40ecaee-8ea4-0c0f-9691-5f94ed6d0f5e"><span>"We recommend it because of the great software and their will to make it fit their customers’ needs."</span></span></p>
+<h6 style="text-align: left;"><span>Matthijs Lok</span></h6>
+<p style="text-align: left;"><a href="http://freshdesk.com/resources/case-study/pearson-boosts-email-support-with-freshdesk/">Read Pearson's full case study</a></p>		
+	</section></div><section class="feature-widget fc">
+	
+					<img src='/files/2014/0256/8825/Scandinavian.png' width='171' height='46' alt='' title='' />		
+		
+					<p style="text-align: left;"><span id="docs-internal-guid-c40ecaee-8ea4-81e2-1c66-232984b97485"><span>"There has been a considerable increase in efficiency after Freshdesk was implemented."</span></span></p>
+<h6 style="text-align: left;">Jörgen Bödmar </h6>
+<p><a href="/resources/case-study/sdc-supports-customers-multiple-languages/">See how SDC scaled up with Freshdesk</a></p>		
+	</section></div><div class='fg-4 '><section class="feature-widget fc">
+	
+					<img src='/files/2914/0250/1331/quizup-logo.png' width='120' height='42' alt='' title='' />		
+		
+					<p style="text-align: left;"><span id="docs-internal-guid-7e44a4bb-85f8-9556-7d4e-0ab4031d2494"><span><span id="docs-internal-guid-c40ecaee-8ea4-f796-397b-1b9c8dca231a"><span>"I recommend that all game developers use Freshdesk for customer support.</span></span> "</span></span></p>
+<h6 style="text-align: left;"><span>Guofinnur Sveinsson</span></h6>
+<p><a href="https://www.youtube.com/watch?v=reYwpPz6D4c">Check out why QuizUp loves Freshdesk</a></p>		
+	</section><section class="feature-widget fc">
+	
+					<img src='/files/9614/0250/1392/ribbed-tee.png' width='156' height='40' alt='' title='' />		
+		
+					<p style="text-align: left;"><span id="docs-internal-guid-c40ecaee-8ea5-b264-d5ef-44211f33273c"><span>"I am interested in doing more with less, Freshdesk is definitely the right tool for this."</span></span></p>
+<h6 style="text-align: left;">Mikel Schwarz</h6>
+<p><a href="/resources/case-study/ribbedtee-automations-and-customer-happiness/">RibbedTee wins customer love with Freshdesk</a></p>		
+	</section></div><div class='fg-4 omega'><section class="feature-widget fc">
+	
+					<img src='/files/6214/0250/0943/doctorbase.png' width='226' height='36' alt='' title='' />		
+		
+					<p style="text-align: left;"><span id="docs-internal-guid-c40ecaee-8ea7-23f8-8fe5-0b3f7ee3fe55"><span>"I was very impressed with Freshdesk’s response time and enthusiasm about our business needs"</span></span></p>
+<h6 style="text-align: left;"><span>Paul Miller</span></h6>
+<p><a href="/resources/case-study/doctorbase-revitalises-customer-support/">See how DoctorBase got proactive with Freshdesk</a> </p>		
+	</section><section class="feature-widget fc">
+	
+					<img src='/files/9114/0249/1763/poster-gully.png' width='283' height='50' alt='' title='' />		
+		
+					<p style="text-align: left;"><span id="docs-internal-guid-c40ecaee-8ea6-b2b3-9e16-f8fa10d8cd3e"><span>"It is very intuitive and you know where to find exactly what you need."</span></span></p>
+<h6 style="text-align: left;"><span>Bharat Sethi</span></h6>
+<p><a href="/resources/case-study/postergully-picks-freshdesk-over-zendesk/">Why PosterGully chose Freshdesk over Zendesk</a></p>		
+	</section></div></div></div></div>
+<style>.feature-widget {
+text-align: left;
+}</style>
+<div class="primary-footer">
+	<div class="l-page">
+      <hr/>
+		<div class="pf-heading top-space-medium align-center">
+			<h2>30,000 Customers</h2>
+			<h4>Some of the world’s biggest brands use Freshdesk for their support.</h4>
+		</div>
+        <div class="jquery-script-clear"></div>
+        <div class="slider">
+			<div class="item"><img src="/files/3514/2062/7316/slide-01.jpg"></div>
+			<div class="item"><img src="/files/7014/2062/7313/slide-02.jpg"></div>
+			<div class="item"><img src="/files/5014/2062/7310/slide-03.jpg"></div>
+			<div class="item"><img src="/files/1814/2062/7308/slide-04.jpg"></div>
+			<div class="item"><img src="/files/5314/2062/7304/slide-05.jpg"></div>
+		</div>
+	
+		
+		<div class="pf-signup align-center fc">
+			<a href="/signup" class="btn btn-large">Get Started for free</a>
+		</div>
+	</div>
+</div>
+<style>.w-grey-features{background-color:#fff; border:0; }</style>	
+<footer class="footer">
+      <!-- Load a footer partial like: -->
+      <div class="l-page clearfix footer-wrapper">
+      	<div class="fg-8">
+      		<div class="fg-5">
+      			<ul class="f-contact">
+      				<li>Contact</li>
+      				<li class="top-space-small fc">
+                   		<span class="f-phone">
+                   			<i class="icon-new-phone"></i>
+                   			<span>+1 (866) 832-3090</span>
+                   		</span>
+      				</li>
+      				<li class="top-space-small fc">
+      					<i class="icon-mail"></i> 
+      					<span class="f-mail-span"><a href="mailto:support@freshdesk.com" class="f-mail">    support@freshdesk.com</a></span>
+      				</li>
+      				<form method="post" enctype="application/x-www-form-urlencoded" action="http://resources.freshdesk.com/index.php/leadCapture/save" id="mktForm_1032" class="formNotEmpty" name="mktForm_1032">
+      				<ul class="mktLblLeft blog-subs" title="Subscribe to Freshdesk Insider">
+      					<li class="subscribe">
+      						<span class="mktError">
+            						<input class="mktFormEmail mktFReq" name="Email" id="Email" type="email" placeholder="Enter your email ">
+            						<span class="mktFormMsg splRedMessage"></span>
+            					</span>
+      						<button id="mktFrmSubmit" name="submitButton" onclick="formSubmit(document.getElementById('mktForm_1032')); return false;"><i class="icon-right"></i></button>
+      					</li>
+      					<p>Subscribe to Freshdesk insider</p>
+      				</ul>
+      				
+      					<span style="display:none;"><input type="text" name="_marketo_comments" value=""></span>
+      					<input type="hidden" name="lpId" value="-1">
+      					<input type="hidden" name="subId" value="398">
+      					<input type="hidden" name="munchkinId" value="626-CPN-682">
+      					<input type="hidden" name="kw" value="">
+      					<input type="hidden" name="cr" value="">
+      					<input type="hidden" name="searchstr" value="">
+      					<input type="hidden" name="lpurl" value="http://resources.freshdesk.com/FooterSubscriptionTemplate.html?cr={creative}&amp;kw={keyword}">
+      					<input type="hidden" name="formid" value="1032">
+      					<input type="hidden" name="returnURL" value="http://www.freshdesk.com">
+      					<input type="hidden" name="retURL" value="http://www.freshdesk.com">
+      					<input type="hidden" name="returnLPId" value="-1">
+      					<input type="hidden" name="_mkt_disp" value="return">
+      					<input type="hidden" name="_mkt_trk" value="">
+      			</form>
+      				
+      			</ul>
+      
+      		</div>
+      		<div class="fg-3">
+      			<ul class="fmenu">
+      				<li class="fhead">Product</li>
+      				<li><a href="/helpdesk-features">All Features</a></li>
+      				<li><a href="/pricing">Pricing</a></li>
+      				<li><a href="/integrations">Integrations</a></li>
+      				<li><a href="/resources">Resources</a></li>
+      				<li><a href="http://support.freshdesk.com">Support</a></li>
+      				<li><a href="/api">API</a></li>
+      			</ul>
+      		</div>
+      		<div class="fg-4 omega">
+      			<ul class="fmenu">
+      				<li class="fhead">Top Features</li>
+      				<li><a href="/helpdesk-management/ticketing-system">Ticketing System</a></li>
+      				<li><a href="/helpdesk-management/knowledge-base">Knowledge Base</a></li>
+      				<li><a href="/customer-engagement/community-forum">Community Forums</a></li>
+      				<li><a href="/freshchat">Live Chat Support</a></li>
+      				<li><a href="/freshfone">Phone Support</a></li>
+      				<li><a href="/helpdesk-management/mobile-app-help-desk">Mobile In-app support</a></li>
+      			</ul>
+      		</div>
+      	</div>
+      	<div class="fg-4 omega parent2">
+      
+      		<div class="fg-4">
+      			<ul class="fmenu">
+      				<li class="fhead">Company</li>
+      				<li><a href="/about">About Freshdesk</a></li>
+      				<li><a href="/customers">Customers</a></li>
+      				<li><a href="/news">In the News</a></li>
+      				<li><a href="/about/careers">Careers</a></li>
+      				<li><a href="/partners">Partners</a></li>
+      			</ul>
+      		</div>
+      		<div class="fg-7 omega">
+      			<ul class="f-social contact-us">
+      				<li>Connect with us</li>
+      				<li class="top-space-small" id="footer-social-icons">
+      					<a href="http://www.linkedin.com/company/1377014" class="linkedin"><i class="icon-linkedin2"></i></a>
+      					<a href="https://www.facebook.com/freshdesk/" class="fb"><i class="icon-facebook"></i></a>
+      					<a href="https://twitter.com/freshdesk" class="twitter"><i class="icon-twitter"></i></a>
+      					<a href="http://www.youtube.com/freshdesk" class="youtube"><i class="icon-youtube2"></i></a>
+      					<a href="https://plus.google.com/104314544092549602183/posts" class="googleplus"><i class="icon-google-plus"></i></a>
+      				</li>
+      				
+      			</ul>
+      			<div class="fc top-space-medium app-widget">
+      				<span class="apple">
+      					<a href="https://itunes.apple.com/ca/app/freshdesk/id849713306?mt=8"><img src="/files/2014/1330/0980/appstore.png" width="90"></a>
+      				</span>
+      				<span class="android">
+      					<a href="http://ad.apps.fm/ozXtEc5ZI9HQ_q2ra73VL15KLoEjTszcQMJsV6-2VnHFDLXitVHB6BlL95nuoNYffAIOoczw-YGfIaoZYt7xO4LNOZ4hHcXlOAoj_MgX7b8gZe2OOIvCAxOQtZGmw1KoF6ewiom4sKC4xZyurG0g7Q"><img src="/files/9214/1330/0932/playstore.png" width="80"></a>
+      				</span>
+      			</div>
+      		</div>
+      	</div>
+      </div>
+      
+      	<!--copy and privacy policy link-->
+      	<div class="l-page fc copy-separator" id="nl-page">
+      		<div class="fg-6 footer-bottom-link">
+      			<ul class="clearfix">
+      				<li><a href="http://freshdesk.com/terms">TERMS OF SERVICE</a></li>
+      				<li><a href="http://freshdesk.com/privacy">PRIVACY POLICY</a></li>
+      				<li><a href="http://freshdesk.com/sitemap">SITEMAP</a></li>
+      			</ul>
+      		</div>
+      		<div class="fg-5 omega copy">
+      			Copyright © Freshdesk Inc. All Rights Reserved.
+      		</div>
+      	</div>
+  <!-- Widgets -->
+  <div class="fresh-widgets">
+		<div class="support-widget">
+				<i class="icon-support"></i><span class="light">Support</span>
+		</div>
+
+		<div class="chat-widget" id="chat-widget">
+				<i class="icon-chat"></i><span class="light">Chat with us</span>
+		</div>
+</div>
+</footer>
+    
+    <!-- Add all.js minified -->
+<script type="text/javascript" src="/themes/freshdesk-polygon/javascripts/all.js?v4"></script>
+<script type="text/javascript" src="/themes/freshdesk-polygon/javascripts/signup.js"></script>
+<script type="text/javascript"> TRANSLATED = LITERALS["default"] </script>
+
+  </body>
+</html>

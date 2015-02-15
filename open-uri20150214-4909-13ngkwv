@@ -1,0 +1,644 @@
+
+<!DOCTYPE html>
+<html class='no-js' lang='en-US'>
+  <head>
+    <!-- Site Info -->
+<meta charset='utf-8'>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>Get from call center to conversation | Freshfone - integrated voice support from Freshdesk</title>
+<meta name="description" content="Setup your call center on the cloud and start supporting customers over phone using Freshfone. It's easy, it's affordable and you can try it for free!" />
+<meta name="keywords" content="call center software, phone customer support, phone calls to ticket, helpdesk call center, online ivr systems, cloud based voice support, freshfone, freshdesk voice" />
+<meta name="generator" content="concrete5 - 5.6.1.2" />
+<script type="text/javascript">
+var CCM_DISPATCHER_FILENAME = '/index.php';var CCM_CID = 681;var CCM_EDIT_MODE = false;var CCM_ARRANGE_MODE = false;var CCM_IMAGE_PATH = "/concrete/images";
+var CCM_TOOLS_PATH = "/index.php/tools/required";
+var CCM_BASE_URL = "http://freshdesk.com";
+var CCM_REL = "";
+
+</script>
+
+
+<link rel="icon" href="/files/1813/9885/7672/favicon.ico" type="image/x-icon" sizes="16x16 32x32 64x64"/>
+<link rel="shortcut icon" href="/files/1813/9885/7672/favicon.ico" type="image/x-icon" sizes="16x16 32x32 64x64"/>
+<style type="text/css"> 
+#blockStyle6652BodyContentLayout1Cell1195 {background-repeat:no-repeat; } 
+</style>
+<meta property="og:title" content="Get from call center to conversation | Freshfone - integrated voice support from Freshdesk" />
+<meta property="og:description" content="Setup your call center on the cloud and start supporting customers over phone using Freshfone. It's easy, it's affordable and you can try it for free!" />
+<meta property="og:type" content="article" />
+<meta content='humans.txt' name='author'>
+<!--[if IE]>
+<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+<meta content='on' http-equiv='cleartype'>
+<![endif]-->
+
+<!-- Mobile & iOS Considerations -->
+<meta name='viewport' content='width=device-width' initial-scale='1.02', maximum-scale='1.0'>
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<!-- <meta content='true' name='HandheldFriendly'>
+<meta content='320' name='MobileOptimized'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='black-translucent' name='apple-mobile-web-app-status-bar-style'> -->
+<link href='/themes/freshdesk-polygon/images/favicons/splash.png' rel='apple-touch-startup-image'>
+<meta content='telephone=no' name='format-detection'>
+<meta content='address=no' name='format-detection'>
+
+<script src="//cdn.optimizely.com/js/2447560213.js"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700,900,300italic" />
+<meta name="google-site-verification" content="CJ87b5cI_Ak0YlozUuvsYL3Zna824gLD01Hx79X5F1Y" />
+<meta name="msvalidate.01" content="9F284CBDFE2FD1C86D4727496E2447E8" />
+<style>.acol{color:#000;} .mphone{ border-left:0; border-right: 1px solid #ccc; padding-right: 20px;}</style><!-- Styles -->
+<link type="text/css" rel="stylesheet" media="all" href="/themes/freshdesk-polygon/stylesheets/freshdesk.css?v4" />
+
+<script type="text/javascript" src="/themes/freshdesk-polygon/javascripts/head.js"></script>
+<script type="text/javascript" src="/themes/freshdesk-polygon/javascripts/respond.min.js"></script>
+<!-- codemirror lib init -->
+
+<script type="text/javascript">	
+	window['page'] = {  cID : 681,  
+						theme_path: "/themes/freshdesk-polygon"  };
+    </script>  </head>
+  <body>
+    
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KH9KHM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KH9KHM');</script>
+<!-- End Google Tag Manager -->
+<!-- <script type="text/javascript"> TRANSLATED = LITERALS["default"] </script> -->
+
+<script type="text/javascript">
+  !function( $ ) {
+    
+    $(function () {
+      
+      "use strict"
+      var url = ""; 
+try{
+      url = getParameterByName("redirect");
+}catch(e){
+}
+      if(!/(http|https):\/\/(.*).freshdesk.com\/(.*)/.test(url)) return;
+      
+      $('#account_redirect_link').attr("href",url);
+      var messages = TRANSLATED.thankyoumsg;
+      
+      if($("#thankyou_message").get(0)){
+        $.each(messages, function(i, item){
+          setTimeout( function(){ 
+            if(item != "_redirect")
+              $("#thankyou_message").text(item);				
+            else
+              top.location = url;
+          }, (i)*1300 );
+        });		
+      }
+    })
+    
+  }(window.jQuery);
+</script>
+<script type="text/javascript">
+	window['signup-thankyou-url'] = "/signup/thank-you"
+</script>	
+<header class="fd-header">
+  <div class="top-nav-strip">
+	<div class="l-page">
+		<nav class="top-site-nav">
+			<ul>
+				<li><a href="/login" class="nav-link">Login</a></li>
+				<li><a href="http://support.freshdesk.com" class="nav-link">Support</a></li>
+				<li><a href="http://blog.freshdesk.com/" class="nav-link">Blog</a></li>
+				<li><a href="/about" class="nav-link">About</a></li>
+                <li id="lang-switch">
+					<a href="http://freshdesk.com" class="nav-link">English</a>
+					<ul class="list-sub" id="lang-select">					
+						<li><a href="http://freshdesk.de">Deutsch</a></li>
+						<li><a href="http://freshdesk.nl">Dutch</a></li>
+						<li><a href="http://freshdesk.es">Español</a></li>
+						<li><a href="http://freshdesk.fr">Français</a></li>
+						<li><a href="http://freshdesk.com.br">Português</a></li>
+						<li><a href="http://freshdesk.com.pl">Polski</a></li>
+                      	<li><a href="http://freshdesk.it">Italiano</a></li>
+						<li><a href="http://freshdesk.hk">中文</a></li>
+						<li><a href="http://freshdesk.kr">한국어</a></li>
+                      	<li><a href="http://cn.freshdesk.com">中文简体‍</a></li>
+						<li><a href="http://se.freshdesk.com">Swedish</a></li>
+						<li><a href="http://freshdesk.ru">Pусский</a></li>
+						<li><a href="http://freshdesk.jp">日本語</a></li>
+					</ul>
+				</li>
+              <li class="top-nav-contact"><a href="/contact" class="nav-link">
+					Contact Us</li>
+			</ul>
+		</nav>
+	</div>
+</div>
+<div class="header fd-sticky fc">
+	<section class="fd-home-sticky">
+		<div class="l-page"> 
+			<a href="/" class="fd-logo"></a>
+			<button class="show-in-mobile menu-icon"></button>
+			<nav class="site-nav">
+			<ul>
+              <li class="h-head"><span class="nav-link product-tab">Product</span>
+                  <ul class="sub-menu">
+                      <li>
+                          <a href="/tour">Freshdesk
+                          <span class="nav-menu-info muted">Customer Support Software</span>
+                          </a>
+                      </li>
+                      <li>
+                          <a href="http://www.freshservice.com/">Freshservice
+                          <span class="nav-menu-info muted">Internal IT Helpdesk</span></a>
+                      </li>
+                      <li>
+                          <a href="/mobihelp">Mobihelp
+                          <span class="nav-menu-info muted">In-app support for Mobile Apps</span></a>
+                      </li>
+                  </ul>
+              </li>
+
+                <li class="h-head"><a href="/helpdesk-tour" class="nav-link feature-tab">Features</a>
+                    <ul class="sub-menu">
+                        <li><a href="/ticketing">Powerful Ticketing</a></li>
+                        <li><a href="/multichannel-support">Multichannel Support</a></li>
+                        <li><a href="/productivity">Productivity and Engagement</a></li>
+                        <li><a href="/self-service">Self Service Portal</a></li>
+                        <li><a href="/global-helpdesk">Global Customer Support</a></li>
+                        <li><a href="/secure-helpdesk">Secure Helpdesk</a></li>
+                        <li><a href="/reporting">Reporting and Analytics</a></li>
+                        <li><a href="/third-party-apps">Integrations and Apps</a></li>
+                        <li><a href="/helpdesk-features">All Features</a></li>
+                    </ul>
+                </li>
+                <li><a href="/pricing" class="nav-link pricing-tab">Pricing</a></li>
+                <li><a href="/customers" class="nav-link customers-tab">Customers</a></li>
+              	<li><a href="/integrations" class="nav-link resources-tab">Integrations</a></li>
+                <li><a href="/signup" class="btn header-signup">Sign up</a></li>
+                <li class="mob"><a href="http://support.freshdesk.com" class="nav-link">Support</a></li>
+                <li class="mob"><a href="http://blog.freshdesk.com/" class="nav-link">Blog</a></li>
+                <li class="mob"><a href="/about" class="nav-link">About</a></li> 
+            </ul>
+          </nav>
+      </div>
+	</section>
+  </div>
+</header>	
+	
+<div class="banner" id="fone-banner">
+<div class="l-page align-center" id="fone-box">
+<div id="fone-page">
+<h2 class="s-heading top-space-medium"><span class="alpha light light">Take your Call-center to the cloud</span></h2>
+<div class="delta top-space-small light">Bring your phone right into your support desk with Freshfone</div>
+<div class="delta top-space-small"><img src="/index.php/download_file/view_inline/1186/" alt="freshfone-mac-phone.png" width="713px" height="384px" alt="Get from Call-center to Conversation..."  /></div>
+  <div class="top-space-small topspace"><a class="btn btn-light btn-large fancybox" href="/signup">Signup Now</a>
+    <a class="btn btn-light btn-large fancybox" href="/freshfone/pricing">View Pricing</a>
+</div>
+<!--<div class="bottom-green-table">
+  
+
+  </div>-->
+  
+  </div>
+</div>
+
+<div class="bottom-green-fall">
+  
+  
+
+  </div>
+</div>
+<style>
+  .topspace{margin:30px 0 0 0;}
+#fone-banner, #fone-page, #fone-box{ position: relative;} 
+#fone-page{ z-index:1 } 
+.bottom-green-table, .bottom-green-fall{ 
+position:absolute;
+z-index:0;
+width:100%;
+height:105px;
+left:0;
+}
+.bottom-green-fall{ bottom:0; background-color:rgba(0, 0, 0, 0.05); }
+.bottom-green-table{ bottom: 106px; border-top: 1px solid rgba(0, 0, 0, 0.1); } 
+
+</style>
+<div id="freshphone"  class="hide">
+	<div style="width:350px">
+	<div class="b-form" id="freshfone-signup">
+		<h5 class="align-center">Signup for Freshdesk</h5>
+                 <h6 class="align-center">and get your invite to Freshfone</h6>
+	<form id="signup" method="post" action="#">
+        		<fieldset>
+        			<div class="textfield">
+        				<i class="icon-user"></i>
+        				<input type="text" class="text" size="24" autocomplete="off" 
+        					name="user[name]" id="user_name" placeholder="Your name">
+        				
+        			</div>
+        			<div class="textfield">
+                                        <input type="hidden" name="utc_offset" id="account_timezone_offset" />
+        				<i class="icon-envelope"></i>
+        				<input type="email" class="text" size="24" autocomplete="off" 
+        					name="user[email]" id="user_email" placeholder="Email" /> 
+        				
+        			</div>
+        			<div class="textfield">
+        				<i class="icon-office"></i>
+        				<input type="text" class="text" size="24" autocomplete="off" 
+        					name="account[name]" id="account_name" placeholder="Company name" />
+        				
+        			</div>
+        			<div class="textfield">
+        				<i class="icon-globe"></i>
+        				<div class="domain">									
+        					<input type="text" class="text" value="" size="24" maxlength="60" rel="ghostWriter" 
+        						autocomplete="off" name="account[domain]" id="account_domain" 
+        						placeholder="Helpdesk name" 
+        						data-ghost-text=".freshdesk.com" class="cancel_border" />
+        				</div>
+        				
+        			</div>
+        			<div class="textfield bottom-line">
+        				<i class="icon-mobile"></i>
+        				<input type="text" size="24" class="text" autocomplete="off" 
+        					name="user[phone]" id="user_email" placeholder="Phone no." />
+        			</div>
+        			<div class="signup_error_land" id="signup_error" style="display:none;"></div>
+        		</fieldset>
+
+                    <!--- Hidden fields required for Conversion Metrics -->
+						<input type="hidden" name="session_json" id="session_json" value="">
+						<input type="hidden" name="first_referrer" id="first_referrer" value="">
+						<input type="hidden" name="first_landing_url" id="first_landing_url" value="">
+						<input type="hidden" name="first_search_engine" id="first_search_engine" value="">
+						<input type="hidden" name="first_search_query" id="first_search_query" value="">
+						<input type="hidden" name="pre_visits" id="pre_visits" value="">
+                    <!--- END OF Hidden fields required for Conversion Metrics -->
+        		<fieldset>
+        			<div class="top-space-medium">
+        				<input class="btn btn-medium btn-block" type="submit" id="signup_button" type="submit" 
+        					title="Freshdesk's Help desk Software - FREE Signup" value="Create my account" />
+        			</div>
+        		</fieldset>
+        	</form>
+        	<div id="error_container"></div>
+        	<br />
+        	<div class="zeta align-center">
+        		<a href="#" id="having_account">Have a Freshdesk account already?</a>
+        	</div>
+	</div>
+	<div id="mktForm_1034_div" class="hide" >
+					<h5 class="align-center">Request for Freshfone</h5>
+      <form method="post" enctype="application/x-www-form-urlencoded" action="http://resources.freshdesk.com/index.php/leadCapture/save" name="0.1_mktForm_1036" id="mktForm_1034" class="lpeRegForm lpeRegFormFancy formNotEmpty">
+                      <ul>
+						<li class='mktField mktFormReq'><span class='mktInput'>
+                          <input class='mktFormText mktFormString' name="Email" type="text" value="" maxlength="255" placeholder="Email Address"/></span>
+						</li>
+						<li class='mktField mktFormReq'><span class='mktInput'>
+                          <input class='mktFormText mktFormString' name="Freshdesk_Domain_Name__c" type="text" value="" maxlength="255" placeholder="Freshdesk Domain Name" /></span>
+						</li>
+<li id='mktFrmButtons' class="modal_signup_wrapper clearfix"><input id='mktFrmSubmit' type='submit' class="btn btn-block" value='Submit' name='submitButton' onclick='formSubmit(document.getElementById("mktForm_1034")); return false;' /></li> 
+</ul>
+  <input type="hidden" name="lpId" value="-1">
+  <input type="hidden" name="subId" value="398">
+  <input type="hidden" name="munchkinId" value="626-CPN-682">
+  <input type="hidden" name="kw" value="">
+  <input type="hidden" name="cr" value="">
+  <input type="hidden" name="searchstr" value="">
+  <input type="hidden" name="lpurl" value="">
+  <input type="hidden" name="formid" value="1036">
+  <input type="hidden" name="returnURL" value="http://freshdesk.com/freshfone?submitted=mobihelp">
+  <input type="hidden" name="retURL" value="http://freshdesk.com/freshfone?submitted=mobihelp">
+  <input type="hidden" name="returnLPId" value="-1">
+  <input type="hidden" name="_mkt_disp" value="return">
+      <input type="hidden" name="_mkt_trk" value="">
+  </form>
+        	<div class="zeta align-center">
+        		Go back to <a href="#" id="mkto_signup">Signup</a> for a new Freshdesk account
+        	</div>
+  			
+	<script type="text/javascript" src="http://resources.freshdesk.com/js/mktFormSupport.js"></script>
+	<script type="text/javascript">
+        function formSubmit(elt) {
+          return Mkto.formSubmit(elt);
+        }
+    </script>
+
+    <script type="text/javascript">
+        function fieldValidate(field) {
+          /* call Mkto.setError(field, message) and return false to mark a field value invalid */
+          /* return 'skip' to bypass the built-in validations */
+          return true;
+        }
+        function getRequiredFieldMessage(domElement, label) {
+          return "This field is required";
+        }
+        function getTelephoneInvalidMessage(domElement, label) {
+          return "Please enter a valid telephone number";
+        }
+        function getEmailInvalidMessage(domElement, label) {
+          return "Please enter a valid email address";
+        }
+    </script>
+				</div>
+			</div>
+</div>
+
+<a href="#thankyou-message" id="details_form" class="hide fancybox">&nbsp;</a>
+	<div id="thankyou-message" class="thankyou-message hide align-center" style="width:350px">
+                <p><b>Thank you</b> for signing up for Freshfone. You have been added to our list. 
+                	<br />
+                	We will get in touch with you soon via email and keep you updated.</p>
+              
+                </div>
+<script type="text/javascript">
+$(document).ready(function() {
+  $('#having_account').click(function() {
+    $('#freshfone-signup').hide();$('#mktForm_1034_div').show();
+  });
+
+  $('#mkto_signup').click(function() {
+    $('#freshfone-signup').show();$('#mktForm_1034_div').hide();
+  });
+});
+</script>  <div class="breadcrumb l-page"><span class="breadcrumb-level"></span><span class="breadcrumb-level"><a href="/" target="_self">Freshdesk</a></span><span class="breadcrumb-level"> <span class="breadcrumb-sep">/</span> Freshfone</span></div><script type="text/javascript">
+   $(function(){
+      $('.breadcrumb-level a:first-child').text('Home');
+   })
+</script>	<div id="ccm-layout-wrapper-70632" class="ccm-layout-wrapper"><div id="ccm-layout-bodycontent-342-1" class="ccm-layout ccm-layout-table  ccm-layout-name-BodyContent-Layout-1 "><div class="fc l-page"><div class='fg-12 '>
+<section class="fc top-space-large l-page resp-pad inner-blocks">
+	<div >
+					<h4>Deliver exceptional support experiences, right from &quot;Hello&quot;</h4>
+		
+					<h5>Your customers want to talk. It&#039;s time to start listening...</h5>
+		
+					<p>Despite the growth of new channels like social media and online communities, in addition to existing ones like email, the rusty old telephone continues to rule when it comes to customer support. There are very few things as simple, transparent and satisfying as calling someone and getting the problem resolved once and for all. </p>
+<p>Freshfone integrated phone support in Freshdesk lets you directly talk to your customers over the phone and keep track of conversations. That way, when you get a call from 555-0123 you know Who it is, what They are calling you about and why.</p>		
+			</div>
+	</section>
+
+
+
+<section class="fc top-space-large l-page resp-pad inner-blocks">
+	<div class="fg-9">
+		
+					<h5>Make it easy when customers want to talk</h5>
+		
+					<p>With Freshfone, giving your customers that opportunity to talk to you is easier than ever. Just get a local number, and let the calls start pouring in. Or, make it even easier for your customers by making it toll-free. That way, the next time your customers have a problem, need to clear a confusion or report an issue, they just need to look for their phones - not their prayer beads. </p>		
+			</div>
+			<div class="fg-3 align-right img-frame top-space-medium omega">
+			<a href='/files/5513/8570/8718/Freshfone_numbers.png' class="fancybox"> <img src='/files/9713/8570/8720/Freshfone_numbers_small.png' width='300' height='236' alt='Share updates progress on tickets with notes' title='Share updates progress on tickets with notes' /> </a>
+					</div>
+	</section>
+
+
+
+<section class="top-space-large fc l-page resp-pad mainimgwrapper">
+			<div class="fg-3 img-frame top-space-medium movedownimg">
+			<a href='/files/8613/8570/8715/Transfer.png' class="fancybox"> <img src='/files/9613/8570/8716/Transfer_small.png' width='300' height='236' alt='Transfer phone calls to the right experts in the team' title='Stay on top of activities in your helpdesk with email notifications' /> </a>
+					</div>
+	
+	<div class="fg-9 omega inner-blocks">
+		
+					<h5>Transfer to the right expert with a single click</h5>
+		
+					<p>Sometimes you realize half-way during a call that Jimmy, from across the cubicle, would be a way better person to sooth this customer's concerns. But disconnecting an angry customer isn't going to do you any good, and hollering for Jimmy across the office is kind of unprofessional. With Freshfone, you can transfer the call to Jimmy as seamlessly as handing the phone over to him, right from where you are. The customer is happy, Jimmy gets to do his magic, and you are free for the next caller!</p>		
+			</div>
+</section>
+
+	<div id="blockStyle6652BodyContentLayout1Cell1195" class="banner-video ccm-block-styles" >
+
+<section class="fc top-space-large l-page resp-pad inner-blocks">
+	<div class="fg-9">
+		
+					<h5>Stay on the call, even when you&#039;re on the road</h5>
+		
+					<p>It's all awesome when you are sitting in front of your browser. But what if you're on the road, with just your dusty old mobile phone for company? You need to take this call and you are miles from a web browser. With Freshfone, you can choose to answer calls right from your web browser, or pick them up from your phone. That way, your call center travels with you, no matter where you go.</p>		
+			</div>
+			<div class="fg-3 align-right img-frame top-space-medium omega">
+			<img src='/files/4413/7951/3192/freshfone.png' width='300' height='236' alt='Support calllers from your mobile phones too' title='Support customers, not spam with every ticket you pick up' />
+					</div>
+	</section>
+
+
+</div>
+<section class="top-space-large fc l-page resp-pad mainimgwrapper">
+			<div class="fg-3 img-frame top-space-medium movedownimg">
+			<a href='/files/6913/8570/8721/IVR_.png' class="fancybox"> <img src='/files/4413/8570/8723/IVR_small.png' width='300' height='236' alt='Engage phone callers with smart integrated voice response systems' title='Stop getting in each others way when you are replying to tickets' /> </a>
+					</div>
+	
+	<div class="fg-9 omega inner-blocks">
+		
+					<h5>Get smarter and save time with IVRs</h5>
+		
+					<p>Of course, you need some additional details from customers before you can push their call to the right support rep in your support desk call center. But asking them for all this information AFTER you pick up the call is such a waste of both your time. Smart IVRs in Freshfone let you get all the preliminaries out the way, so when it's time to talk to the customer, it's already the right person in the team that says "Hello". </p>		
+			</div>
+</section>
+
+
+<section class="fc top-space-large l-page resp-pad inner-blocks">
+	<div class="fg-9">
+		
+					<h5>Choose what should become a ticket. Automatically!</h5>
+		
+					<p>Some customer conversations, about problems, issues and ideas need to be ticketed and saved so you can come back to them later. Some others, spamming you to buy another credit card are probably better left unsaved. With Freshfone, you have the choice of which conversations you want to ticket, and which ones are spam at the end of every call. </p>		
+			</div>
+			<div class="fg-3 align-right img-frame top-space-medium omega">
+			<a href='/files/4713/8570/8955/Convert_to_Ticket.png' class="fancybox"> <img src='/files/1413/8570/8713/Convert_ticket.png' width='300' height='236' alt='Convert phone calls to support tickets' title='' /> </a>
+					</div>
+	</section>
+
+
+</div></div></div></div><div id="ccm-layout-wrapper-70633" class="ccm-layout-wrapper"><div id="ccm-layout-bodycontent-341-2" class="ccm-layout ccm-layout-table w-grey-features ccm-layout-name-BodyContent-Layout-2 "><div class="fc l-page"><div class='fg-4 '><section class="feature-widget fc">
+			<a class="w-title-link" href="/helpdesk-management/knowledge-base/">
+	
+					<img src='/files/5313/7531/3061/knowledge-base.png' width='100' height='100' alt='' title='' />		
+					<h4 class="w-title">Knowledge  Base</h4>
+		
+					<p dir="ltr"><span>Help users help themselves to your knowledge, FAQs and best practices even before they submit tickets.</span></p>		
+			</a>
+	</section></div><div class='fg-4 '><section class="feature-widget fc">
+			<a class="w-title-link" href="/customer-engagement/community-forum/">
+	
+					<img src='/files/3213/7244/5605/community-forums.png' width='100' height='100' alt='' title='' />		
+					<h4 class="w-title">Community Forums</h4>
+		
+					<p><span id="docs-internal-guid-43dc5f22-8fd0-cc91-2389-f0b060053851"><span>Give customers the platform to ask questions, discuss best practices, suggest ideas and build your brand.</span></span></p>		
+			</a>
+	</section></div><div class='fg-4 omega'><section class="feature-widget fc">
+			<a class="w-title-link" href="/customer-engagement/social-customer-service">
+	
+					<img src='/files/6213/7244/5604/social-customer-service.png' width='100' height='100' alt='' title='' />		
+					<h4 class="w-title">Social Customer Support</h4>
+		
+					<p><span id="docs-internal-guid-43dc5f22-8fec-8b30-3cec-4b560136955c"><span>Get proactive and start supporting customers over social media channels like Facebook and Twitter. </span></span></p>		
+			</a>
+	</section></div></div></div></div>
+<div class="primary-footer">
+	<div class="l-page">
+      <hr/>
+		<div class="pf-heading top-space-medium align-center">
+			<h2>30,000 Customers</h2>
+			<h4>Some of the world’s biggest brands use Freshdesk for their support.</h4>
+		</div>
+        <div class="jquery-script-clear"></div>
+        <div class="slider">
+			<div class="item"><img src="/files/3514/2062/7316/slide-01.jpg"></div>
+			<div class="item"><img src="/files/7014/2062/7313/slide-02.jpg"></div>
+			<div class="item"><img src="/files/5014/2062/7310/slide-03.jpg"></div>
+			<div class="item"><img src="/files/1814/2062/7308/slide-04.jpg"></div>
+			<div class="item"><img src="/files/5314/2062/7304/slide-05.jpg"></div>
+		</div>
+	
+		
+		<div class="pf-signup align-center fc">
+			<a href="/signup" class="btn btn-large">Get Started for free</a>
+		</div>
+	</div>
+</div>
+<style>.w-grey-features{background-color:#fff; border:0; }</style>	
+<footer class="footer">
+      <!-- Load a footer partial like: -->
+      <div class="l-page clearfix footer-wrapper">
+      	<div class="fg-8">
+      		<div class="fg-5">
+      			<ul class="f-contact">
+      				<li>Contact</li>
+      				<li class="top-space-small fc">
+                   		<span class="f-phone">
+                   			<i class="icon-new-phone"></i>
+                   			<span>+1 (866) 832-3090</span>
+                   		</span>
+      				</li>
+      				<li class="top-space-small fc">
+      					<i class="icon-mail"></i> 
+      					<span class="f-mail-span"><a href="mailto:support@freshdesk.com" class="f-mail">    support@freshdesk.com</a></span>
+      				</li>
+      				<form method="post" enctype="application/x-www-form-urlencoded" action="http://resources.freshdesk.com/index.php/leadCapture/save" id="mktForm_1032" class="formNotEmpty" name="mktForm_1032">
+      				<ul class="mktLblLeft blog-subs" title="Subscribe to Freshdesk Insider">
+      					<li class="subscribe">
+      						<span class="mktError">
+            						<input class="mktFormEmail mktFReq" name="Email" id="Email" type="email" placeholder="Enter your email ">
+            						<span class="mktFormMsg splRedMessage"></span>
+            					</span>
+      						<button id="mktFrmSubmit" name="submitButton" onclick="formSubmit(document.getElementById('mktForm_1032')); return false;"><i class="icon-right"></i></button>
+      					</li>
+      					<p>Subscribe to Freshdesk insider</p>
+      				</ul>
+      				
+      					<span style="display:none;"><input type="text" name="_marketo_comments" value=""></span>
+      					<input type="hidden" name="lpId" value="-1">
+      					<input type="hidden" name="subId" value="398">
+      					<input type="hidden" name="munchkinId" value="626-CPN-682">
+      					<input type="hidden" name="kw" value="">
+      					<input type="hidden" name="cr" value="">
+      					<input type="hidden" name="searchstr" value="">
+      					<input type="hidden" name="lpurl" value="http://resources.freshdesk.com/FooterSubscriptionTemplate.html?cr={creative}&amp;kw={keyword}">
+      					<input type="hidden" name="formid" value="1032">
+      					<input type="hidden" name="returnURL" value="http://www.freshdesk.com">
+      					<input type="hidden" name="retURL" value="http://www.freshdesk.com">
+      					<input type="hidden" name="returnLPId" value="-1">
+      					<input type="hidden" name="_mkt_disp" value="return">
+      					<input type="hidden" name="_mkt_trk" value="">
+      			</form>
+      				
+      			</ul>
+      
+      		</div>
+      		<div class="fg-3">
+      			<ul class="fmenu">
+      				<li class="fhead">Product</li>
+      				<li><a href="/helpdesk-features">All Features</a></li>
+      				<li><a href="/pricing">Pricing</a></li>
+      				<li><a href="/integrations">Integrations</a></li>
+      				<li><a href="/resources">Resources</a></li>
+      				<li><a href="http://support.freshdesk.com">Support</a></li>
+      				<li><a href="/api">API</a></li>
+      			</ul>
+      		</div>
+      		<div class="fg-4 omega">
+      			<ul class="fmenu">
+      				<li class="fhead">Top Features</li>
+      				<li><a href="/helpdesk-management/ticketing-system">Ticketing System</a></li>
+      				<li><a href="/helpdesk-management/knowledge-base">Knowledge Base</a></li>
+      				<li><a href="/customer-engagement/community-forum">Community Forums</a></li>
+      				<li><a href="/freshchat">Live Chat Support</a></li>
+      				<li><a href="/freshfone">Phone Support</a></li>
+      				<li><a href="/helpdesk-management/mobile-app-help-desk">Mobile In-app support</a></li>
+      			</ul>
+      		</div>
+      	</div>
+      	<div class="fg-4 omega parent2">
+      
+      		<div class="fg-4">
+      			<ul class="fmenu">
+      				<li class="fhead">Company</li>
+      				<li><a href="/about">About Freshdesk</a></li>
+      				<li><a href="/customers">Customers</a></li>
+      				<li><a href="/news">In the News</a></li>
+      				<li><a href="/about/careers">Careers</a></li>
+      				<li><a href="/partners">Partners</a></li>
+      			</ul>
+      		</div>
+      		<div class="fg-7 omega">
+      			<ul class="f-social contact-us">
+      				<li>Connect with us</li>
+      				<li class="top-space-small" id="footer-social-icons">
+      					<a href="http://www.linkedin.com/company/1377014" class="linkedin"><i class="icon-linkedin2"></i></a>
+      					<a href="https://www.facebook.com/freshdesk/" class="fb"><i class="icon-facebook"></i></a>
+      					<a href="https://twitter.com/freshdesk" class="twitter"><i class="icon-twitter"></i></a>
+      					<a href="http://www.youtube.com/freshdesk" class="youtube"><i class="icon-youtube2"></i></a>
+      					<a href="https://plus.google.com/104314544092549602183/posts" class="googleplus"><i class="icon-google-plus"></i></a>
+      				</li>
+      				
+      			</ul>
+      			<div class="fc top-space-medium app-widget">
+      				<span class="apple">
+      					<a href="https://itunes.apple.com/ca/app/freshdesk/id849713306?mt=8"><img src="/files/2014/1330/0980/appstore.png" width="90"></a>
+      				</span>
+      				<span class="android">
+      					<a href="http://ad.apps.fm/ozXtEc5ZI9HQ_q2ra73VL15KLoEjTszcQMJsV6-2VnHFDLXitVHB6BlL95nuoNYffAIOoczw-YGfIaoZYt7xO4LNOZ4hHcXlOAoj_MgX7b8gZe2OOIvCAxOQtZGmw1KoF6ewiom4sKC4xZyurG0g7Q"><img src="/files/9214/1330/0932/playstore.png" width="80"></a>
+      				</span>
+      			</div>
+      		</div>
+      	</div>
+      </div>
+      
+      	<!--copy and privacy policy link-->
+      	<div class="l-page fc copy-separator" id="nl-page">
+      		<div class="fg-6 footer-bottom-link">
+      			<ul class="clearfix">
+      				<li><a href="http://freshdesk.com/terms">TERMS OF SERVICE</a></li>
+      				<li><a href="http://freshdesk.com/privacy">PRIVACY POLICY</a></li>
+      				<li><a href="http://freshdesk.com/sitemap">SITEMAP</a></li>
+      			</ul>
+      		</div>
+      		<div class="fg-5 omega copy">
+      			Copyright © Freshdesk Inc. All Rights Reserved.
+      		</div>
+      	</div>
+  <!-- Widgets -->
+  <div class="fresh-widgets">
+		<div class="support-widget">
+				<i class="icon-support"></i><span class="light">Support</span>
+		</div>
+
+		<div class="chat-widget" id="chat-widget">
+				<i class="icon-chat"></i><span class="light">Chat with us</span>
+		</div>
+</div>
+</footer>
+    
+    <!-- Add all.js minified -->
+<script type="text/javascript" src="/themes/freshdesk-polygon/javascripts/all.js?v4"></script>
+<script type="text/javascript" src="/themes/freshdesk-polygon/javascripts/signup.js"></script>
+<script type="text/javascript"> TRANSLATED = LITERALS["default"] </script>
+
+  </body>
+</html>
