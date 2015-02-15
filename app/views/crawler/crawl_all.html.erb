@@ -1,0 +1,14 @@
+<style>
+    body {background-color:lightgrey;text-align:center}
+    h1   {color:blue}
+    p    {color:green}
+</style>
+<body><h1>Crawling Sites</h1><p>Sample input format[http://www.freshdesk.com]</p><%= form_tag crawler_crawl_all_path,:method => "get",:remote => true do %>
+       	<p>
+       	<%= text_field_tag :crawl, params[:crawl] %>
+       	<%= submit_tag :"crawl", :name => nil %>
+       	</p>
+<% end %>
+<p>Crawl has been initiated and the data will be populated below.<br/>
+Note: once script execution is over in TERMINAL, please refresh this page to view crawled data here.</p>
+<span><%= $resultView%></span></body>
